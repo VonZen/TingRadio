@@ -54,12 +54,12 @@ When we collect your precise geolocation data (subject to your consent), we do s
 If you contact us, for instance by email, we may keep a record of that correspondence.
 Your interactions with us on our social media channels.  
 
-## 6- Changes to our privacy policy and practices
+## 3- Changes to our privacy policy and practices
 
 We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective when it is posted. If you are concerned about how your information is used, then bookmark this page and read this Privacy Policy periodically.
 From time to time, we may desire to use or disclose Personal Information for uses not previously disclosed in our Privacy Policy. If our practices change regarding previously collected information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, then we will make reasonable efforts to provide notice and obtain consent prior to any such uses as may be required by law.
 
-## 8- How to Contact Us
+## 4- How to Contact Us
 
 If you have any questions, would like to share suggestions for improving the Privacy Policy or the Service, or otherwise would like to contact us, then please feel free to contact us at:
 
