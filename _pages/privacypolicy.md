@@ -1,3 +1,11 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
+**Last updated**
+July 21 2023
+
 # PRIVACY POLICY
 
 This policy describes how we (referred in this policy as ‘Ting Radio’ or ‘we’, us’ and ‘our’) collect, use, process and share information that Ting Radio collects about you.
