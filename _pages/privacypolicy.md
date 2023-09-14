@@ -10,68 +10,52 @@ include_in_header: false
 This policy describes how we (referred in this policy as ‘Ting Radio’ or ‘we’, us’ and ‘our’) collect, use, process and share information that Ting Radio collects about you.
 If you have any concerns about this privacy policy you should not use our apps or other Services.
 
-## 1- Why Do we Collect data ?
+This policy is an integral part of the [Terms of Service](https://vonzen.github.io/TingRadio/termsofservice/).
 
-Like most of the other app publishers, we needs to perform some R&D, analysis and marketing tasks. We explain here the reasons why we and our partners may collect data :
+## Personal identification information
 
-### To provide our products and services
+We do not collect personal information in any form.
 
-For example, we need to know for which location, which time & date you want some weather forecasts. Similarly, if you use our search tool, we need to process your query in order to provide the matching results worldwide.
+## Non-personal identification information
 
-### To improve our services and develop new ones
+We may collect non-personal information about Users whenever they interact with our apps. Non-personal information may include the browser name, location, the type of device and OS version, and other technical information such as, means of connection to our apps. We also collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use our app.
 
-We need to analyze the behaviour of our users in our apps. Most of the time, we do this by analyzing aggregated data. For example, this will help us understand if the user interface of the app should be improved, if some people get lost in a workflow, if we should add additional instructions etc... This can also help us know the frequency of use, the duration of sessions etc...
+Advertising - When you see ads in our apps, we may share your Advertising ID and IP address with our advertising partners. Our advertising partners may also collect information directly from our apps through technologies such as software development kits (SDKs). In each case, they may use your data for a number of purposes, including to limit the number of times you see an ad or to personalize the ads you see to make them more relevant to you (for example, based on the past activity they have associated with your Advertising ID).  
 
-### To find and fix bugs
+## Cookies
 
-The data we collect can also help us to find and fix bugs thanks to technical crashlogs.
+We don't  use cookies in order to help facilitate your experience. 
 
-### To send notifications
+## How we use collected information
 
-If you agree to receive notifications, we'll need to retrieve some identifier in order to push the notications to your device. We make our best to only send valuable notifications.
+We collects and uses information for the following purposes:
 
-### Legal uses
+- To improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.
+- To provide user and other support, including to our third-party business partners.
+- To carry out other specific purposes that are disclosed to you and to which you consent.
 
-We may use your data for legal matters or if required by authorities, as permitted by any applicable law.
+## How we protect your information
 
-## 2- Data that may be collected
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information and data stored on our apps.
 
-### App usage
+Nevertheless, we bring your attention to the following measures you can adopt:
 
-Examples: navigation inside the app, actions in the app such as clicks on buttons, duration of sessions, frequency of use, locations, queries...
+To stop the collection of Location Information on iOS mobile devices, disable the location services feature on the settings of your device.
 
-### Technical Data
+To prevent the collection of Location Information on Android devices disable Bluetooth and Location.
 
-Examples: IP address (partially anonymized), device country or language, device screen size, operating system and version...
+On iOS devices you can opt-out from any interest-based advertising. Go on Settings. Privacy, Advertising and then click on "Limit Ad-tracking". When you have opted out using this setting on a device, advertisers will not use in-app information collected from that device to infer your interests or serve ads to that device that are targeted based on your inferred interests.
 
-### GPS location
+## Changes to this privacy policy
 
-When we collect your precise geolocation data (subject to your consent), we do so to provide you with our location-related products and services, for example to provide you with the best stations for your location. Your location is approximated before being used. 
+We has the discretion to update this privacy policy from time to time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-### Messages
+## Your acceptance of these terms
 
-If you contact us, for instance by email, we may keep a record of that correspondence.
-Your interactions with us on our social media channels.  
+By using our Service, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our apps. Your continued use of the Apps following the posting of changes to this policy will be deemed your acceptance of those changes. 
 
-## 3- Changes to our privacy policy and practices
-
-We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective when it is posted. If you are concerned about how your information is used, then bookmark this page and read this Privacy Policy periodically.
-From time to time, we may desire to use or disclose Personal Information for uses not previously disclosed in our Privacy Policy. If our practices change regarding previously collected information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, then we will make reasonable efforts to provide notice and obtain consent prior to any such uses as may be required by law.
-
-## 4- How to Contact Us
+## Contact Us
 
 If you have any questions, would like to share suggestions for improving the Privacy Policy or the Service, or otherwise would like to contact us, then please feel free to contact us at:
 
-VonzenApp@outlook.com 
-
-# About this app 
-
-We work hard to gather the best radio streams that are broadcasting over the internet worldwide. If you are the owner of a radio station and want us to add it, please contact us and we'll be happy to do it. Should you own a radio and don't want this radio to appear in this website or in our apps, please contact us and we'll remove it. we use images to display the radios. We believe this is a “fair use”. Anyway, if you believe any content made available in this website or in our apps is violating any copyrights please contact us so we can investigate and remove inappropriate contents.
-
-Please notice we are not responsible for what could be said on those radios. We don’t check in any way the accuracy or completeness of the information delivered by the radios that are listed in the website or in our apps. We don’t accept any liability arising from any inaccuracy or omission in this information.
-
-We do our best to keep a great directory with many stations worldwide, but please notice that any station may become unvailable or may even be removed at any time.
-
-Logos and radio streams are properties of their copyright owners. No part of the data made available in this website or in our apps may in any form or by any means be reproduced, stored in a retrieval system or transmitted without express written permission. As a user of this app, you agree to respect the licenses of each content (images…) made available in the website and in our apps. You are not allowed to : (1) extract or reproduce large parts of our database (2) use of robots, spiders, or any automatic device, or use of any manual process to copy or scrape the website Content for any purpose without our express written permission
-
-No part of the data displayed by this app may be in any form or by any means be reproduced, stored in a retrieval system or transmitted without express written permission. Reverse engineering of this app is forbidden.  
+VonzenApp@outlook.com
