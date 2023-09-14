@@ -92,7 +92,7 @@ Apple is not responsible for addressing any claims by you or any third party rel
 -  Product liability claims or claims being under consumer protection or similar legislation. 
 -  Any claim that the Application fails to conform to any applicable legal or regulatory requirement in any country;
 
-Apple is not responsible for the investigation, defense, settlement and discharge of any third party claim that the Application or your possession and use of the Application infringes that third party’s intellectual property rights. Please refer to section 10 and 11, regarding copyright or other intellectual property infringements.
+Apple is not responsible for the investigation, defense, settlement and discharge of any third party claim that the Application or your possession and use of the Application infringes that third party’s intellectual property rights. Please refer to section 7, regarding copyright or other intellectual property infringements.
 
 You agree to comply with any applicable third party terms, when using the Application.
 
