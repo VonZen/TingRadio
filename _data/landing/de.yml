@@ -1,0 +1,139 @@
+lang: de
+locale: de_DE
+home: /de/
+language_label: Sprache wählen
+title: "Ting Radio — Die Welt auf deiner Wellenlänge"
+description: "Entdecke Live-Radio, merke dir Songs und nimm dir Zeit zum Hören mit Ting Radio. Finde deinen nächsten Lieblingssender."
+skip: Zum Inhalt springen
+nav_label: Hauptnavigation
+nav_discover: Die App
+nav_features: Funktionen
+nav_everyday: Radio im Alltag
+download: Im App Store laden
+download_short: App laden
+hero_eyebrow: LIVE-RADIO. EIN STÜCK NÄHER.
+hero_title_1: Die Welt,
+hero_title_2: für dich.
+hero_body: "Entdecke Live-Radio, erkenne Songs und hab deine Favoriten immer zur Hand. Eine native App für deine Apple-Geräte."
+hero_link: Ein Blick in die App
+hero_note: "Kostenlos laden · Für deine Apple-Geräte gemacht"
+hero_image_alt: Ting Radio spielt Classic Vinyl HD auf dem iPhone und zeigt Songinformationen und eine Audiovisualisierung
+hero_caption: Ein wenig Raum zum Hören.
+hero_tag_1: Dein nächster Jazz-Nachmittag
+hero_tag_2: In Ruhe konzentrieren
+hero_tag_3: Etwas Neues entdecken
+intro_label: Ein neues Kapitel für Ting Radio
+intro_text: "Weniger suchen. Mehr hören. Eine neu gestaltete native App, die neue Entdeckungen, deine Lieblingssender und die Songs, die dir begegnen, näher zusammenbringt."
+discovery_eyebrow: IN TING RADIO
+discovery_title: "Finde einen Sender.\nEntdecke mehr."
+discovery_body: "Vom nächsten Sender bis zum Song, den du dir merken willst: So funktioniert Ting Radio."
+discovery_note: "Deine Vorlieben und dein Hörverlauf helfen dir, Neues zu entdecken. Mit Favoriten und eigenen Sender-URLs bleibt dein Stück Radio immer in Reichweite."
+discovery_items:
+  - {name: Jazz, detail: Ein Nachmittag ohne Eile., image: jazz.webp, alt: Ein Saxofon in warmem Licht, kind: Genre}
+  - {name: Konzentration, detail: Ein wenig Raum zum Denken., image: focus.webp, alt: Bücher und eine warm leuchtende Schreibtischlampe, kind: Stimmung}
+  - {name: Klassik, detail: Lass den Tag seinen Lauf nehmen., image: classical.webp, alt: Eine Violine aus der Nähe, kind: Genre}
+  - {name: Entspannen, detail: Nimm den längeren Weg nach Hause., image: chill.webp, alt: Nebel über einem stillen Waldsee, kind: Stimmung}
+song_eyebrow: LASS EINEN GUTEN SONG NICHT ZIEHEN
+song_title: "Gehört.\nGemerkt."
+song_body: "Ein Lieblingssong kann dich ganz unerwartet finden. Erkenne Songs aus unterstützten Radio-Streams, lies verfügbare Songtexte mit und stöbere in deinem Songverlauf."
+song_steps:
+  - title: Gib dem Song einen Namen
+    body: Nutze die Titel-Erkennung, während ein unterstützter Sender läuft. Die Verfügbarkeit hängt vom Stream und vom Gerät ab.
+  - title: Bleib bei den Worten
+    body: Lies synchronisierte Songtexte mit, wenn sie verfügbar sind. Zeitliche Abstimmung und Wortmarkierungen hängen von den gelieferten Songtexten ab.
+  - title: Finde ihn später wieder
+    body: Der Songverlauf merkt sich Titel und Interpreten, die du beim Hören entdeckt hast. Er speichert Songinformationen, keine Audioaufnahmen.
+song_art_label: AUS EINEM MOMENT WIRD EINE ERINNERUNG
+song_art_text: Der Song, von dem du nicht wusstest, dass er dir fehlt.
+song_note: "Manche Sender unterstützen nur die grundlegende Wiedergabe. Songtexte, Titel-Erkennung und Visualisierungen, die auf Musik reagieren, hängen vom Stream ab. Die Titel-Erkennung wird auf der Apple Watch nicht unterstützt."
+everyday_eyebrow: GUTE GESELLSCHAFT, DEN GANZEN TAG
+everyday_title: Nimm dir Zeit zum Hören.
+everyday_body: Kleine, durchdachte Details für deinen Alltag.
+scenes:
+  - number: "01"
+    title: Komm zur Ruhe. In deinem Tempo.
+    body: Wähle eine kostenlose Vorgabe für den Sleep-Timer und lass die Wiedergabe enden, wenn es Zeit zum Ausruhen ist. Mit Pro kannst du die Dauer selbst festlegen.
+    label: Sleep-Timer
+  - number: "02"
+    title: Nimm deine Sender mit.
+    body: "Grundlegendes Hören mit CarPlay ist enthalten. Pro ergänzt den Fahrmodus und das Stöbern nach Genre und Stimmung in CarPlay. Die Verfügbarkeit hängt von deiner Ausstattung ab."
+    label: Fahrmodus & CarPlay
+  - number: "03"
+    title: Starte mit etwas, das du liebst.
+    body: "Mach deinen Lieblingssender zum Teil deiner Morgenroutine. Etwas, auf das du dich schon beim Aufwachen freuen kannst."
+    label: Radiowecker*
+alarm_note: "* Der Radiowecker ist eine Pro-Funktion und erfordert iOS 26 oder neuer sowie die Berechtigung für Wecker. Zuerst klingelt der Systemwecker; tippe auf Sender öffnen, um zuzuhören."
+devices_eyebrow: ZU HAUSE IN DEINER APPLE-WELT
+devices_title: Vertraut, wo immer du hörst.
+devices_body: "Eine native App für iPhone, iPad, Mac und Apple Watch. Die Funktionen unterscheiden sich je nach Gerät."
+devices:
+  - {name: iPhone & iPad, requirement: "Erfordert iOS / iPadOS 18+", body: "AirPlay, Steuerelemente auf dem Sperrbildschirm und ein natives Hörerlebnis."}
+  - {name: Mac, requirement: "Erfordert macOS 15+", body: Eine eigene native App für deinen Schreibtisch und deinen Tag.}
+  - {name: Apple Watch, requirement: "Erfordert watchOS 11+", body: "Favoriten, zuletzt gehörte Sender und eigene Sender werden mit deinem gekoppelten iPhone synchronisiert."}
+faq_eyebrow: BEVOR DU EINSCHALTEST
+faq_title: Ein paar Dinge vorab.
+faqs:
+  - question: Ist Ting Radio kostenlos?
+    answer: "Ting Radio lässt sich kostenlos laden. Radio hören, Favoriten, eigene Sender und Vorgaben für den Sleep-Timer sind enthalten. Mit Pro kannst du deine Sender auf weitere Arten genießen."
+  - question: Kann ich offline hören oder eine Sendung aufnehmen?
+    answer: "Ting Radio überträgt Live-Radio über das Internet. Offline-Aufnahmen oder das spätere Abspielen von Sendungen werden nicht angeboten. Die Sender bestimmen selbst über ihre Streams, Inhalte und Verfügbarkeit."
+  - question: Wird alles zwischen meinen Geräten synchronisiert?
+    answer: "Ting Radio unterstützt die Synchronisierung von Sendern zwischen dem iPhone und seiner gekoppelten Apple Watch. Eine vollständige, kontobasierte Synchronisierung der Mediathek über alle Plattformen wird nicht zugesagt."
+  - question: Entfernt Pro Werbung aus Radiosendern?
+    answer: "Werbung, die ein Sender ausstrahlt, ist Teil seines Audio-Streams. Ting Radio kann sie nicht entfernen. Auch Pro bietet keine Entfernung dieser Werbung."
+cta_eyebrow: IRGENDWO LÄUFT IMMER ETWAS
+cta_title: Finde deinen neuen Favoriten.
+cta_body: Schaffe ein wenig Raum für Musik, Stimmen und die Welt da draußen.
+footer_tagline: Die Welt, ein Stück näher.
+footer_support: Kontakt
+footer_privacy: Datenschutzerklärung
+footer_terms: Nutzungsbedingungen
+privacy_url: /privacypolicy/
+terms_url: /termsofservice/
+back_home: Zurück zu Ting Radio
+legal_context: Über Ting Radio
+not_found_title: Auf dieser Frequenz ist es still.
+not_found_body: Die gesuchte Seite wurde möglicherweise verschoben. Zurück zu Ting Radio.
+screens_note: Die gezeigten App-Ansichten sind auf Englisch.
+showcase_items:
+  - image: genres-en.webp
+    title: Finde deine Frequenz
+    body: Stöbere nach Genre, Stimmung, Region oder Sprache. Folge deiner Neugier.
+    alt: Die englische Genreübersicht von Ting Radio auf dem iPhone mit Musikkategorien und einem Mini-Player
+  - image: player-en.webp
+    title: Tauche in den Klang ein
+    body: Dein Sender, seine Songinformationen und alle nötigen Steuerelemente an einem Ort.
+    alt: Der englische Player von Ting Radio auf dem iPhone spielt Classic Vinyl HD mit Audiovisualisierung
+  - image: song-history-en.webp
+    title: Merke dir, was du hörst
+    body: Sieh dir die Songinformationen und den Sender an, auf dem du den Song entdeckt hast.
+    alt: Der englische Songverlauf von Ting Radio auf dem iPhone zeigt Titel von Classic Vinyl HD und Frisky
+features_eyebrow: HÖREN, AUF DEINE ART
+features_title: Ein wenig mehr beim Hören.
+features_body: Die Funktionen für den Alltag sind enthalten. Mit Pro kannst du deine Sender auf weitere Arten genießen.
+feature_items:
+  - icon: radio
+    title: Entdecken & speichern
+    body: Stöbere nach Genre, Stimmung, Region oder Sprache und hab deine Favoriten immer zur Hand. Füge auch eigene Sender-URLs hinzu.
+    entitlement: Enthalten
+  - icon: recognition
+    title: Titel-Erkennung & Songtexte
+    body: Erkenne Songs aus unterstützten Radio-Streams und lies verfügbare Songtexte mit.
+    entitlement: Kostenlos mit Tageslimit · Unbegrenzt mit Pro
+  - icon: history
+    title: Songverlauf
+    body: Finde entdeckte Songs mit Titel, Interpret und Senderinfos wieder. Gespeichert werden Informationen, keine Aufnahmen.
+    entitlement: Enthalten
+  - icon: moon
+    title: Sleep-Timer
+    body: Wähle eine vorgegebene Dauer und lass die Wiedergabe enden, wenn es Zeit zum Ausruhen ist.
+    entitlement: Vorgaben enthalten · Eigene Dauer mit Pro
+  - icon: car
+    title: Fahrmodus & CarPlay
+    body: "Deine Sender bleiben in Reichweite: mit grundlegendem Hören über CarPlay oder dem eigenen Fahrmodus von Pro."
+    entitlement: Hören mit CarPlay enthalten · Fahrmodus & Entdecken mit Pro
+  - icon: alarm
+    title: Radiowecker
+    body: Wähle einen Sender für deine Morgenroutine. Tippe nach dem Klingeln des Systemweckers auf Sender öffnen, um zuzuhören.
+    entitlement: Pro · iOS 26+
+everyday_image_alt: Der Sleep-Timer von Ting Radio auf dem iPhone mit englischer Oberfläche, vorgegebenen Zeiten und einer Option für eine eigene Dauer

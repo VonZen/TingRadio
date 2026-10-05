@@ -1,0 +1,139 @@
+lang: zh-Hant
+locale: zh_TW
+home: /zh-hant/
+language_label: 選擇語言
+title: "Ting Radio — 讓世界的聲音，陪伴每一天"
+description: "發現喜歡的電台，記住偶遇的好歌，讓 Ting Radio 陪伴日常。找到你的下一座好電台。"
+skip: 跳至主要內容
+nav_label: 主要導覽
+nav_discover: App 一覽
+nav_features: 功能
+nav_everyday: 日常陪伴
+download: 在 App Store 下載
+download_short: 下載 App
+hero_eyebrow: 世界的聲音，就在身邊
+hero_title_1: 讓世界的聲音，
+hero_title_2: 陪伴每一天。
+hero_body: "探索直播電台，辨識聽見的好歌，把喜歡的聲音留在身邊。為你的 Apple 裝置打造的原生 App。"
+hero_link: 看看 App 介面
+hero_note: "免費下載 · 在 Apple 裝置上自然相伴"
+hero_image_alt: iPhone 上的 Ting Radio 正在播放 Classic Vinyl HD，並顯示歌曲資訊與音訊視覺化
+hero_caption: 留一點時間，聽聽世界。
+hero_tag_1: 午後的爵士時光
+hero_tag_2: 安靜一點，更專注
+hero_tag_3: 去聽新的地方
+intro_label: Ting Radio 的新篇章
+intro_text: "少一點尋找，多一點聆聽。煥新的原生 App，把電台探索、日常收藏和聽見的好歌，輕輕連接起來。"
+discovery_eyebrow: 走進 TING RADIO
+discovery_title: "找到一座電台，\n聽見更多驚喜。"
+discovery_body: "從選擇下一座電台，到記住偶遇的好歌，看看 Ting Radio 如何陪你聆聽。"
+discovery_note: "探索內容會參考你的偏好與收聽紀錄。收藏喜歡的電台，也可以透過自訂電台網址，把熟悉的聲音留在身邊。"
+discovery_items:
+  - {name: 爵士, detail: 讓午後慢一點。, image: jazz.webp, alt: 暖光下的薩克斯風, kind: 曲風}
+  - {name: 專注, detail: 給思緒留一點空間。, image: focus.webp, alt: 書本與暖色檯燈, kind: 心情}
+  - {name: 古典, detail: 讓一天從容展開。, image: classical.webp, alt: 小提琴的近照, kind: 曲風}
+  - {name: 放鬆, detail: 把片刻還給自己。, image: chill.webp, alt: 薄霧籠罩的寧靜森林湖泊, kind: 心情}
+song_eyebrow: 別讓好歌擦身而過
+song_title: "偶然聽見，\n也能好好記住。"
+song_body: "喜歡的歌，往往來得不經意。辨識支援的電台音訊，跟隨可用歌詞，在歌曲歷史中找回那些聽過的名字。"
+song_steps:
+  - title: 為好歌找到名字
+    body: 在支援的電台播放時使用歌曲辨識，能否使用取決於串流與裝置。
+  - title: 跟著文字繼續聽
+    body: 有可用歌詞時，可以跟隨同步歌詞。時間軸與逐字醒目提示取決於歌曲提供的歌詞資料。
+  - title: 以後，也找得到
+    body: 歌曲歷史保留收聽時發現的歌名與藝人資訊，方便回顧。儲存的是歌曲資訊，而非音訊錄音。
+song_art_label: 把一瞬間，留成一段記憶
+song_art_text: 原來，這就是剛才那首歌。
+song_note: "部分電台僅支援基本播放；歌詞、歌曲辨識和隨音訊變化的視覺效果取決於串流。Apple Watch 不支援歌曲辨識。"
+everyday_eyebrow: 從早到晚，好聲音相伴
+everyday_title: 給聆聽，留一個位置。
+everyday_body: 一些貼心的小功能，陪你走過一天裡的不同片刻。
+scenes:
+  - number: "01"
+    title: 慢慢聽，安心入睡。
+    body: 選擇免費的睡眠定時預設，讓播放在休息時結束。Pro 還支援自訂時長。
+    label: 睡眠定時
+  - number: "02"
+    title: 熟悉的電台，一路相伴。
+    body: "免費版包含 CarPlay 基本播放。Pro 增加專用駕駛畫面，以及 CarPlay 中的曲風與心情探索。實際可用性取決於裝置與使用環境。"
+    label: 駕駛與 CarPlay
+  - number: "03"
+    title: 從喜歡的聲音開始一天。
+    body: "把喜歡的電台與起床時間放在一起，讓清晨多一份期待。"
+    label: 電台自動叫醒*
+alarm_note: "* 電台自動叫醒為 Pro 功能，需要 iOS 26 或以上版本及鬧鐘權限。系統鬧鐘先響鈴，再點按「開啟電台」開始收聽。"
+devices_eyebrow: 在你的 APPLE 裝置上，自然相伴
+devices_title: 換個地方，依然熟悉。
+devices_body: "在 iPhone、iPad、Mac 和 Apple Watch 上，享受熟悉的原生體驗。實際功能依裝置而異。"
+devices:
+  - {name: iPhone 與 iPad, requirement: "需要 iOS / iPadOS 18+", body: "AirPlay、鎖定畫面控制，以及自然順手的原生收聽體驗。"}
+  - {name: Mac, requirement: "需要 macOS 15+", body: 為桌面打造的原生 App，陪伴工作，也陪伴閒暇。}
+  - {name: Apple Watch, requirement: "需要 watchOS 11+", body: 與配對的 iPhone 同步收藏、最近收聽和自訂電台。}
+faq_eyebrow: 開始聆聽之前
+faq_title: 你可能想知道。
+faqs:
+  - question: Ting Radio 是免費的嗎？
+    answer: "Ting Radio 可以免費下載。日常電台收聽、收藏、自訂電台和睡眠定時預設均包含在免費版中，Pro 則提供更多收聽功能。"
+  - question: 可以離線聽，或者錄下節目嗎？
+    answer: "Ting Radio 透過網際網路收聽直播電台。不提供離線錄音或節目重播。電台自行決定串流、內容與服務可用性。"
+  - question: 所有裝置都會同步嗎？
+    answer: "Ting Radio 支援 iPhone 與配對 Apple Watch 的電台同步；目前不承諾所有平台之間透過帳號同步完整媒體庫。"
+  - question: Pro 能移除電台裡的廣告嗎？
+    answer: "電台播出的廣告屬於其本身的音訊串流，Ting Radio 無法移除。Pro 權益也不包含移除廣告。"
+cta_eyebrow: 總有聲音，值得停留
+cta_title: 遇見你的下一段好聲音。
+cta_body: 留一點時間，讓音樂、人聲和世界走進日常。
+footer_tagline: 讓世界，離你近一點。
+footer_support: 聯絡我們
+footer_privacy: 隱私權政策
+footer_terms: 服務條款
+privacy_url: /privacypolicy/
+terms_url: /termsofservice/
+back_home: 返回 Ting Radio
+legal_context: 關於 Ting Radio
+not_found_title: 這個頻率，暫時安靜。
+not_found_body: 你要找的頁面可能已經移動。回到 Ting Radio，繼續探索。
+screens_note: 圖中 App 介面為英文。
+showcase_items:
+  - image: genres-en.webp
+    title: 找到此刻的頻率
+    body: 從曲風、心情、地區或語言出發，讓好奇心帶你繼續探索。
+    alt: iPhone 上 Ting Radio 的英文曲風瀏覽介面，顯示音樂分類與迷你播放器
+  - image: player-en.webp
+    title: 安心聽一會兒
+    body: 電台、歌曲資訊和播放控制，在同一個地方輕鬆找到。
+    alt: iPhone 上 Ting Radio 的英文播放器，正在播放 Classic Vinyl HD 並顯示音訊視覺化
+  - image: song-history-en.webp
+    title: 記住聽見的好歌
+    body: 回顧歌曲資訊，也找回發現它的那座電台。
+    alt: iPhone 上 Ting Radio 的英文歌曲歷史，顯示在 Classic Vinyl HD 和 Frisky 聽見的歌曲
+features_eyebrow: 按你的方式，安心聆聽
+features_title: 每次聆聽，多一點喜歡。
+features_body: 日常收聽所需的功能免費提供。Pro 帶來更多享受電台的方式。
+feature_items:
+  - icon: radio
+    title: 探索與收藏
+    body: 按曲風、心情、地區或語言瀏覽，收藏喜歡的電台，也可以新增自己的電台網址。
+    entitlement: 免費提供
+  - icon: recognition
+    title: 歌曲辨識與歌詞
+    body: 辨識支援的電台音訊，有可用歌詞時跟著文字繼續聽。
+    entitlement: 每日免費額度 · Pro 不限次數
+  - icon: history
+    title: 歌曲歷史
+    body: 找回聽見的歌名、藝人與電台資訊。儲存的是歌曲資訊，不是錄音。
+    entitlement: 免費提供
+  - icon: moon
+    title: 睡眠定時
+    body: 選擇預設時長，讓播放在休息時結束。
+    entitlement: 預設免費 · Pro 可自訂
+  - icon: car
+    title: 駕駛與 CarPlay
+    body: 使用 CarPlay 基本播放，或 Pro 專用駕駛畫面，讓熟悉的電台一路相伴。
+    entitlement: 基本 CarPlay 免費 · 駕駛與探索為 Pro 功能
+  - icon: alarm
+    title: 電台自動叫醒
+    body: 選擇清晨想聽的電台。系統鬧鐘響鈴後，點按「開啟電台」開始收聽。
+    entitlement: Pro · iOS 26+
+everyday_image_alt: iPhone 上 Ting Radio 的英文睡眠定時介面，顯示預設時長與自訂定時選項

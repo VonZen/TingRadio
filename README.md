@@ -1,113 +1,41 @@
-# Automatic App Landing Page
-**Create and deploy an iOS app landing page on GitHub Pages in only five minutes.**
+# Ting Radio website
 
-Designed for GitHub Pages for super easy set up. 
+Official multilingual landing page for Ting Radio. Built with GitHub Pages / Jekyll, native HTML, CSS, and a small progressive-enhancement script.
 
-🔧 Fork this repo
+## Local preview
 
-🗝 Enter iOS App ID in `_config.yml`
+Use Ruby 3.3, matching the [GitHub Pages supported dependency line](https://pages.github.com/versions/). Ruby 4 cannot resolve the current GitHub Pages dependency set.
 
-📲 Upload video preview or screenshot
+```sh
+rtk proxy bundle install --jobs 1
+rtk proxy bundle exec jekyll serve --host 127.0.0.1
+```
 
-🎨 Customise site in `_config.yml` (no HTML/CSS)
+Open `http://127.0.0.1:4000/TingRadio/` for English. Other languages use their own paths, including `/zh/`, `/zh-hant/`, `/es/`, `/de/`, `/fr/`, `/ru/`, `/it/`, `/el/`, `/nl/`, `/pl/` and `/pt/`. If your default Ruby is 4, select a Ruby 3.3 executable for Bundler without changing the system default.
 
-📝 Write Privacy Policy as markdown in `privacypolicy.md`
+## Validate
 
-🕒 Keep a changelog in `CHANGELOG.md`
+```sh
+rtk proxy bundle exec jekyll build
+rtk proxy python3 scripts/validate_site.py
+```
 
-✅ Site becomes live at GitHub Pages repository URL, e.g. `https://your-username.github.io/your-repo-name/`.
+The validator checks all 15 generated pages, the 12-language landing-page selector, locale metadata, shared English legal routes, sitemap entries, base-path links and private-source exclusions. It also checks that removed legal translations are absent. Browser checks cover responsive layout, English as the default, keyboard navigation and native language selection.
 
-<img src="https://emilbaehr.com/files/jayson1.png" width="440"> <img src="https://emilbaehr.com/files/slor1.png" width="440">
+## Edit content
 
+- `_data/languages.json`: language names, locale tags and paths; English is first and is the default.
+- `_data/landing/*.yml`: matching translation keys, screenshot captions and six feature/entitlement cards for each language.
+- `_includes/landing.html`: shared landing structure.
+- `assets/css/site.css`: app-aligned palette and responsive styles.
+- `assets/js/site.js`: closes the native language selector on Escape or an outside click. Locale URLs determine language; no browser preference or automatic redirect overrides English at `/`.
+- `_pages/`: English-only privacy policy and terms, based on the current native app. All website languages link to `/privacypolicy/` and `/termsofservice/`, matching the app's current links.
+- `_config.yml`: production URL/base path, static App Store destination and sitemap.
 
+The site describes the current app without a version badge or pricing comparison section. Six feature cards explain included and Pro benefits. Radio wake-up uses a small-print note for system requirements and its Open Station action. Lock Screen lyrics and statistics are omitted from marketing. The footer keeps the copyright line and useful links. Internal docs and validation scripts are excluded from the public build.
 
+Translated landing-page frontmatter uses `translation_key: home`. The shared selector and hreflang entries link the corresponding landing pages. Legal pages use `translated: false` and `english_only: true`, with no language selector or translation metadata. All pages remain static and accessible without JavaScript.
 
-## Quick Start
+## Assets
 
-### Step 1: Fork this repo.
-After forking the repo, your site will be live immediately on your personal Github Pages account, e.g. `https://yourusername.github.io/your-repo-name/`.
-
-*Make sure GitHub Pages is enabled for your repo. It might take some time for the site to propagate entirely.*
-
-
-
-### Step 2: Enter iOS App ID in `_config.yml`
-Enter your iOS app ID in the `ios_app_id` field and commit your changes. Your site will automatically rebuild with your app icon, name, price and link to App Store.
-
-You can go on with customising almost anything in the `_config.yml` file. 
-
-Things you can customise in `_config.yml`:
-- App Name
-- App Icon
-- App Description
-- App Price
-- App Store Link
-- Play Store Link
-- Press Kit Download Link
-- Cover Image
-- Cover Overlay Color
-- Background Color
-- Text Colors
-- iPhone Device Color
-- Your Name / Company Name
-- Link to Website
-- Social Links and Contact Info
-- Feature List (Title, text, icon)
-
-
-
-### Step 3: Add screenshot or video
-
-#### Adding a screenshot
-Upload a `.png` or `.jpg` of your app to the folder `assets/screenshot/`. The name does not matter. Be sure to delete the placeholder `yourscreenshot.png`.
-
-#### Adding video
-Upload your video to the folder `assets/videos/`. To have support for most browsers, you need to upload two files – one for Safari and one for Chrome/Firefox.
-
-Video formats supported by Chrome and Firefox:
-- `.webm`
-- `.ogg`
-
-Video formats supported by Safari:
-- `.mp4`
-- `.mov`
-
-#### Resolutions
-The videos and screenshots must have one of the following resolutions:
-- 828x1792
-- 1125x2436
-- 1242x2688
-
-
-
-### Step 4: Edit (or remove) Privacy Policy and Changelog
-Your site automatically includes pages for a Privacy Policy and a Changelog. Change the content of these pages by editing the `privacypolicy.md` and `CHANGELOG.md` files in the `_pages` directory.
-
-In each of the markdown files, you can set the `include_in_header:` value to either `true` or `false`. This determines if the page is included in the top navigation.
-By default, only the Changelog is included in the top navigation. The title of the navigation item can also be edited, by editing the `title:` in each markdown file.
-
-If you need to, you can create additional markdown based pages just by creating an `.md` file like the `privacypolicy.md` and `CHANGELOG.md` files in the `_pages` directory.
-
-**Please note:** The Privacy Policy and Changelog provided are written using dummy text, so please adapt each of them for your own app.
-You can also choose not to include these pages, by simple deleting the `privacypolicy.md` and `CHANGELOG.md` files.
-
-
-
-
-## Feedback
-If you have feedback regarding bugs or improvements, open an issue, @ me on Twitter or write me an email. You can find my contact info on my website.
-
-I'd love to see the sites you create using this little tool.
-
-## Credits
-- [Jekyll](https://github.com/jekyll/jekyll)
-- [FontAwesome](https://fontawesome.github.io/Font-Awesome/)
-
-## Donations
-[Donations are welcome](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=S8ZZT3JXJPN92&currency_code=USD&source=url)
-
-## Author
-[Emil Baehr](https://emilbaehr.com/)
-
-## License
-[MIT License](LICENSE)
+The hero and product showcase use current App screenshots captured on an iPhone 17 Pro simulator. All locales share one English set, with localised captions and alt text. Brand images come from the associated native App repository. Screenshots are compressed to WebP at their original dimensions; phone frames and icons use local CSS/SVG. No third-party fonts, icon CDN, jQuery, remote App Store lookup or analytics are required. See [asset provenance](docs/assets.md).

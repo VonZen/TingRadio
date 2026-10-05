@@ -1,0 +1,139 @@
+lang: en
+locale: en_US
+home: /
+language_label: Choose language
+title: "Ting Radio — The world, tuned to you"
+description: "Discover live radio, remember songs, and make room for listening with Ting Radio. Find your next favourite station."
+skip: Skip to content
+nav_label: Main navigation
+nav_discover: The app
+nav_features: Features
+nav_everyday: Everyday listening
+download: Download on the App Store
+download_short: Get the app
+hero_eyebrow: LIVE RADIO. A LITTLE CLOSER.
+hero_title_1: The world,
+hero_title_2: tuned to you.
+hero_body: "Discover live radio, identify songs you hear, and keep your favourites close. A native app for your Apple devices."
+hero_link: Take a look inside
+hero_note: "Free to download · Made for your Apple devices"
+hero_image_alt: Ting Radio playing Classic Vinyl HD on iPhone, with song information and an audio visualisation
+hero_caption: A little room to listen.
+hero_tag_1: Your next jazz afternoon
+hero_tag_2: A quieter kind of focus
+hero_tag_3: Somewhere new
+intro_label: A new chapter for Ting Radio
+intro_text: "Less searching. More listening. A refreshed native app that brings discovery, your favourite stations, and the songs you find along the way closer together."
+discovery_eyebrow: INSIDE TING RADIO
+discovery_title: "Find a station.\nStay for the discoveries."
+discovery_body: "From choosing your next station to remembering a song, a little look at the way Ting Radio works."
+discovery_note: "Discovery draws on your preferences and listening history. Favourites and custom station URLs keep your own corner of radio close."
+discovery_items:
+  - {name: Jazz, detail: A slower afternoon., image: jazz.webp, alt: A warmly lit saxophone, kind: Genre}
+  - {name: Focus, detail: A little space to think., image: focus.webp, alt: Books and a warm desk lamp, kind: Mood}
+  - {name: Classical, detail: Let the day unfold., image: classical.webp, alt: A close view of a violin, kind: Genre}
+  - {name: Unwind, detail: Take the long way home., image: chill.webp, alt: Mist above a quiet forest lake, kind: Mood}
+song_eyebrow: DON’T LET A GOOD SONG GO
+song_title: "Heard it.\nKeep it."
+song_body: "A favourite song can arrive when you least expect it. Identify supported radio audio, follow available lyrics, and revisit your song history."
+song_steps:
+  - title: Put a name to the song
+    body: Use song recognition while a supported station plays. Availability depends on the stream and device.
+  - title: Stay with the words
+    body: Follow synchronised lyrics when available. Timing and word highlights depend on the lyrics supplied for the song.
+  - title: Find it again later
+    body: Song history keeps the titles and artists discovered during listening. It saves song information, rather than audio recordings.
+song_art_label: FROM A MOMENT TO A MEMORY
+song_art_text: That song you didn’t know you needed.
+song_note: "Some stations support basic listening only. Lyrics, recognition, and audio-reactive visuals depend on the stream. Song recognition is not supported on Apple Watch."
+everyday_eyebrow: GOOD COMPANY, ALL DAY
+everyday_title: Make room for listening.
+everyday_body: A few thoughtful touches for the way your day actually moves.
+scenes:
+  - number: "01"
+    title: Wind down, on your terms.
+    body: Choose a free sleep-timer preset and let playback stop when it’s time to rest. Pro adds a custom duration.
+    label: Sleep timer
+  - number: "02"
+    title: Take your stations along.
+    body: "Basic CarPlay listening is included. Pro adds the dedicated driving view and genre and mood browsing in CarPlay. Availability depends on your setup."
+    label: Driving & CarPlay
+  - number: "03"
+    title: Start with something you love.
+    body: "Bring your favourite station into your morning routine. Something to look forward to when the day begins."
+    label: Radio wake-up*
+alarm_note: "* Radio wake-up is a Pro feature requiring iOS 26 or later and alarm permission. The system alarm rings first; tap Open Station to begin listening."
+devices_eyebrow: AT HOME IN YOUR APPLE WORLD
+devices_title: Familiar wherever you listen.
+devices_body: "A native experience for iPhone, iPad, Mac, and Apple Watch. Features vary by device."
+devices:
+  - {name: iPhone & iPad, requirement: "Requires iOS / iPadOS 18+", body: "AirPlay, Lock Screen controls, and a native listening experience."}
+  - {name: Mac, requirement: "Requires macOS 15+", body: A dedicated native app for your desk and your day.}
+  - {name: Apple Watch, requirement: "Requires watchOS 11+", body: "Companion favourites, recent stations, and custom stations sync with your paired iPhone."}
+faq_eyebrow: BEFORE YOU TUNE IN
+faq_title: A few things to know.
+faqs:
+  - question: Is Ting Radio free?
+    answer: "Ting Radio is free to download. Everyday radio listening, favourites, custom stations, and sleep-timer presets are included. Pro adds more ways to enjoy your stations."
+  - question: Can I listen offline or record a show?
+    answer: "Ting Radio streams live radio over the internet. It does not offer offline recordings or programme replay. Stations control their own streams, content, and availability."
+  - question: Will everything sync across my devices?
+    answer: "Ting Radio supports companion station sync between iPhone and its paired Apple Watch. Full account-based library sync across all platforms is not promised."
+  - question: Does Pro remove ads from radio stations?
+    answer: "Ads broadcast by a station are part of its own audio stream. Ting Radio cannot remove them, and Pro does not include ad removal."
+cta_eyebrow: THERE’S ALWAYS SOMETHING ON
+cta_title: Find your next favourite frequency.
+cta_body: Make a little room for music, voices, and the world outside.
+footer_tagline: The world, a little closer.
+footer_support: Get in touch
+footer_privacy: Privacy policy
+footer_terms: Terms of service
+privacy_url: /privacypolicy/
+terms_url: /termsofservice/
+back_home: Back to Ting Radio
+legal_context: About Ting Radio
+not_found_title: This frequency is quiet.
+not_found_body: The page you’re looking for may have moved. Let’s get you back to Ting Radio.
+screens_note: App screens shown in English.
+showcase_items:
+  - image: genres-en.webp
+    title: Find your frequency
+    body: Browse by genre, mood, region, or language. Follow your curiosity.
+    alt: Ting Radio’s English genre browser on iPhone, with music categories and a mini player
+  - image: player-en.webp
+    title: Settle into the sound
+    body: Your station, its song information, and the controls you need in one place.
+    alt: Ting Radio’s English player on iPhone, playing Classic Vinyl HD with audio visualisation
+  - image: song-history-en.webp
+    title: Remember what you heard
+    body: Revisit song information and the station where you found it.
+    alt: Ting Radio’s English song history on iPhone, showing tracks heard on Classic Vinyl HD and Frisky
+features_eyebrow: YOUR LISTENING, YOUR WAY
+features_title: A little more in every listen.
+features_body: Everyday essentials are included. Pro adds more ways to enjoy your stations.
+feature_items:
+  - icon: radio
+    title: Discover & save
+    body: Browse by genre, mood, region, or language, then keep your favourites close. Add your own station URLs, too.
+    entitlement: Included
+  - icon: recognition
+    title: Song recognition & lyrics
+    body: Identify supported radio audio and follow the lyrics when available.
+    entitlement: Daily allowance · Unlimited with Pro
+  - icon: history
+    title: Song history
+    body: Revisit the songs you discover, with titles, artists, and station details. Saved as information, not recordings.
+    entitlement: Included
+  - icon: moon
+    title: Sleep timer
+    body: Choose a preset and let playback stop when it’s time to rest.
+    entitlement: Presets included · Custom with Pro
+  - icon: car
+    title: Driving & CarPlay
+    body: Keep your stations within reach with basic CarPlay listening or the dedicated Pro driving view.
+    entitlement: Basic CarPlay included · Driving & discovery with Pro
+  - icon: alarm
+    title: Radio wake-up
+    body: Choose a station for your morning routine. Tap Open Station after the system alarm rings to start listening.
+    entitlement: Pro · iOS 26+
+everyday_image_alt: Ting Radio’s English sleep timer on iPhone, with preset durations and a custom timer option

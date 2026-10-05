@@ -1,22 +1,10 @@
 ---
-# Front matter comment to ensure Jekyll properly reads file.
+layout: default
 ---
-
-<!DOCTYPE html>
-<html lang="en-us">
-
-{% include head.html %}
-
-<body class="subPageBody">
-    <div class="headerBackground subPageHeaderBackground">
-        <div class="container subPageContainer">
-        {% include header.html %}
-            <article class="page markdown-body">
-                {{ content }}
-            </article>
-        </div>
-        {% include appstoreimages.html %}
-    </div>
-</body>
-
-</html>
+{% assign language = page.language | default: 'en' %}
+{% assign t = site.data.landing[language] %}
+<article class="legal-page container">
+  <a class="text-link" href="{{ t.home | relative_url }}">← {{ t.back_home }}</a>
+  <p class="eyebrow legal-context">{{ t.legal_context }}</p>
+  <div class="legal-content">{{ content }}</div>
+</article>

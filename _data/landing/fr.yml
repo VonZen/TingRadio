@@ -1,0 +1,139 @@
+lang: fr
+locale: fr_FR
+home: /fr/
+language_label: Choisir la langue
+title: "Ting Radio — Le monde, à votre écoute"
+description: "Découvrez la radio en direct, retrouvez vos chansons et faites une place à l’écoute avec Ting Radio. Trouvez votre prochaine station préférée."
+skip: Aller au contenu
+nav_label: Navigation principale
+nav_discover: L’app
+nav_features: Fonctions
+nav_everyday: Écouter au quotidien
+download: Télécharger sur l’App Store
+download_short: Obtenir l’app
+hero_eyebrow: LA RADIO EN DIRECT. UN PEU PLUS PROCHE.
+hero_title_1: Le monde,
+hero_title_2: à votre écoute.
+hero_body: "Découvrez la radio en direct, identifiez les chansons que vous entendez et gardez vos favoris à portée de main. Une app native pour vos appareils Apple."
+hero_link: Découvrez l’app de l’intérieur
+hero_note: "Téléchargement gratuit · Pour vos appareils Apple"
+hero_image_alt: Ting Radio diffusant Classic Vinyl HD sur iPhone, avec des informations sur la chanson et une visualisation audio
+hero_caption: Une petite place pour écouter.
+hero_tag_1: Votre prochain après-midi jazz
+hero_tag_2: Se concentrer dans le calme
+hero_tag_3: Ailleurs, tout simplement
+intro_label: Un nouveau chapitre pour Ting Radio
+intro_text: "Moins de recherches. Plus d’écoute. Une app native repensée qui rapproche les découvertes, vos stations préférées et les chansons croisées en chemin."
+discovery_eyebrow: À L’INTÉRIEUR DE TING RADIO
+discovery_title: "Trouvez une station.\nLaissez-vous surprendre."
+discovery_body: "Du choix de votre prochaine station au souvenir d’une chanson, un aperçu du fonctionnement de Ting Radio."
+discovery_note: "Les découvertes s’appuient sur vos préférences et votre historique d’écoute. Les favoris et les URL de stations personnalisées gardent votre univers radio à portée de main."
+discovery_items:
+  - {name: Jazz, detail: Un après-midi sans hâte., image: jazz.webp, alt: Un saxophone éclairé d’une lumière chaude, kind: Genre}
+  - {name: Concentration, detail: Un peu d’espace pour réfléchir., image: focus.webp, alt: Des livres et une lampe de bureau à lumière chaude, kind: Humeur}
+  - {name: Classique, detail: Laissez la journée suivre son cours., image: classical.webp, alt: Un violon vu de près, kind: Genre}
+  - {name: Détente, detail: Prenez le temps de rentrer., image: chill.webp, alt: De la brume au-dessus d’un lac paisible en forêt, kind: Humeur}
+song_eyebrow: NE LAISSEZ PAS FILER UNE BELLE CHANSON
+song_title: "Écoutée.\nRetrouvée."
+song_body: "Une chanson préférée peut surgir quand on s’y attend le moins. Identifiez l’audio des stations compatibles, suivez les paroles disponibles et retrouvez votre historique de chansons."
+song_steps:
+  - title: Mettez un nom sur la chanson
+    body: Utilisez la reconnaissance de chansons pendant la lecture d’une station compatible. Sa disponibilité dépend du flux et de l’appareil.
+  - title: Suivez les paroles
+    body: Suivez les paroles synchronisées lorsqu’elles sont disponibles. La synchronisation et la mise en évidence des mots dépendent des données de paroles fournies pour la chanson.
+  - title: Retrouvez-la plus tard
+    body: L’historique conserve les titres et les artistes découverts pendant l’écoute. Il enregistre des informations sur les chansons, sans enregistrer leur audio.
+song_art_label: D’UN INSTANT À UN SOUVENIR
+song_art_text: Cette chanson dont vous aviez besoin sans le savoir.
+song_note: "Certaines stations permettent uniquement l’écoute de base. Les paroles, la reconnaissance et les visuels réagissant à l’audio dépendent du flux. La reconnaissance de chansons n’est pas disponible sur Apple Watch."
+everyday_eyebrow: EN BONNE COMPAGNIE, TOUTE LA JOURNÉE
+everyday_title: Faites une place à l’écoute.
+everyday_body: Quelques attentions pensées pour le vrai rythme de vos journées.
+scenes:
+  - number: "01"
+    title: Détendez-vous à votre rythme.
+    body: Choisissez une durée prédéfinie du minuteur de veille gratuit et laissez la lecture s’arrêter à l’heure du repos. Pro ajoute une durée personnalisée.
+    label: Minuteur de veille
+  - number: "02"
+    title: Emportez vos stations.
+    body: "L’écoute de base avec CarPlay est incluse. Pro ajoute la vue dédiée à la conduite et la navigation par genre et humeur dans CarPlay. La disponibilité dépend de votre équipement."
+    label: Conduite et CarPlay
+  - number: "03"
+    title: Commencez par ce que vous aimez.
+    body: "Invitez votre station préférée dans votre routine du matin. Un petit plaisir à attendre au début de la journée."
+    label: Réveil radio*
+alarm_note: "* Le réveil radio est une fonction Pro qui nécessite iOS 26 ou une version ultérieure et l’autorisation des alarmes. L’alarme système sonne d’abord ; touchez Ouvrir la station pour commencer à écouter."
+devices_eyebrow: À SA PLACE DANS VOTRE UNIVERS APPLE
+devices_title: Vos repères, partout.
+devices_body: "Une expérience native pour iPhone, iPad, Mac et Apple Watch. Les fonctions varient selon l’appareil."
+devices:
+  - {name: iPhone et iPad, requirement: "Nécessite iOS / iPadOS 18+", body: "AirPlay, commandes sur l’écran verrouillé et une expérience d’écoute native."}
+  - {name: Mac, requirement: "Nécessite macOS 15+", body: Une app native dédiée pour votre bureau et votre quotidien.}
+  - {name: Apple Watch, requirement: "Nécessite watchOS 11+", body: "Vos favoris, stations récentes et stations personnalisées se synchronisent avec l’iPhone jumelé."}
+faq_eyebrow: AVANT DE VOUS METTRE À L’ÉCOUTE
+faq_title: Quelques repères utiles.
+faqs:
+  - question: Ting Radio est-il gratuit ?
+    answer: "Ting Radio se télécharge gratuitement. L’écoute quotidienne de la radio, les favoris, les stations personnalisées et les durées prédéfinies du minuteur de veille sont inclus. Pro ajoute d’autres façons de profiter de vos stations."
+  - question: Puis-je écouter hors ligne ou enregistrer une émission ?
+    answer: "Ting Radio diffuse la radio en direct par internet. L’app ne propose ni enregistrements hors ligne ni réécoute des émissions. Les stations gèrent leurs propres flux, contenus et disponibilités."
+  - question: Tout se synchronise-t-il entre mes appareils ?
+    answer: "Ting Radio permet de synchroniser les stations entre l’iPhone et son Apple Watch jumelée. Une synchronisation complète de la bibliothèque au moyen d’un compte sur toutes les plateformes n’est pas promise."
+  - question: Pro supprime-t-il les publicités des stations ?
+    answer: "Les publicités diffusées par une station font partie de son propre flux audio. Ting Radio ne peut pas les supprimer, et Pro n’inclut pas la suppression des publicités."
+cta_eyebrow: IL Y A TOUJOURS QUELQUE CHOSE À L’ANTENNE
+cta_title: Votre prochaine fréquence préférée.
+cta_body: Faites une petite place à la musique, aux voix et au monde qui vous entoure.
+footer_tagline: Le monde, un peu plus proche.
+footer_support: Nous contacter
+footer_privacy: Politique de confidentialité
+footer_terms: Conditions d’utilisation
+privacy_url: /privacypolicy/
+terms_url: /termsofservice/
+back_home: Revenir à Ting Radio
+legal_context: À propos de Ting Radio
+not_found_title: Cette fréquence est silencieuse.
+not_found_body: La page recherchée a peut-être changé d’adresse. Retournons à Ting Radio.
+screens_note: Les écrans de l’app sont présentés en anglais.
+showcase_items:
+  - image: genres-en.webp
+    title: Trouvez votre fréquence
+    body: Explorez par genre, humeur, région ou langue. Suivez votre curiosité.
+    alt: Le navigateur de genres de Ting Radio en anglais sur iPhone, avec des catégories musicales et un mini-lecteur
+  - image: player-en.webp
+    title: Laissez-vous porter par le son
+    body: Votre station, les informations sur la chanson et les commandes utiles réunies au même endroit.
+    alt: Le lecteur de Ting Radio en anglais sur iPhone, diffusant Classic Vinyl HD avec une visualisation audio
+  - image: song-history-en.webp
+    title: Retrouvez ce que vous avez entendu
+    body: Retrouvez les informations sur les chansons et la station où vous les avez découvertes.
+    alt: L’historique de chansons de Ting Radio en anglais sur iPhone, avec des titres entendus sur Classic Vinyl HD et Frisky
+features_eyebrow: L’ÉCOUTE À VOTRE FAÇON
+features_title: Un peu plus à chaque écoute.
+features_body: L’essentiel du quotidien est inclus. Pro ajoute d’autres façons de profiter de vos stations.
+feature_items:
+  - icon: radio
+    title: Découvrez et gardez vos favoris
+    body: Explorez par genre, humeur, région ou langue, puis gardez vos favoris à portée de main. Ajoutez aussi vos propres URL de stations.
+    entitlement: Inclus
+  - icon: recognition
+    title: Reconnaissance et paroles
+    body: Identifiez l’audio des stations compatibles et suivez les paroles lorsqu’elles sont disponibles.
+    entitlement: Quota quotidien gratuit · Sans limite avec Pro
+  - icon: history
+    title: Historique de chansons
+    body: Retrouvez les chansons découvertes, avec les titres, les artistes et les détails de la station. Ces éléments sont conservés comme informations, sans enregistrement audio.
+    entitlement: Inclus
+  - icon: moon
+    title: Minuteur de veille
+    body: Choisissez une durée prédéfinie et laissez la lecture s’arrêter à l’heure du repos.
+    entitlement: Durées prédéfinies incluses · Personnalisée avec Pro
+  - icon: car
+    title: Conduite et CarPlay
+    body: Gardez vos stations à portée de main avec l’écoute de base de CarPlay ou la vue de conduite dédiée de Pro.
+    entitlement: CarPlay de base inclus · Conduite et navigation CarPlay avec Pro
+  - icon: alarm
+    title: Réveil radio
+    body: Choisissez une station pour votre routine du matin. Touchez Ouvrir la station après la sonnerie de l’alarme système pour commencer à écouter.
+    entitlement: Pro · iOS 26+
+everyday_image_alt: Le minuteur de veille de Ting Radio en anglais sur iPhone, avec des durées prédéfinies et une option de minuteur personnalisé

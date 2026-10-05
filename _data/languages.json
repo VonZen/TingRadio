@@ -1,0 +1,86 @@
+[
+  {
+    "key": "en",
+    "lang": "en",
+    "label": "English",
+    "home": "/",
+    "locale": "en_US"
+  },
+  {
+    "key": "zh",
+    "lang": "zh-Hans",
+    "label": "简体中文",
+    "home": "/zh/",
+    "locale": "zh_CN"
+  },
+  {
+    "key": "zh-hant",
+    "lang": "zh-Hant",
+    "label": "繁體中文",
+    "home": "/zh-hant/",
+    "locale": "zh_TW"
+  },
+  {
+    "key": "es",
+    "lang": "es",
+    "label": "Español",
+    "home": "/es/",
+    "locale": "es_ES"
+  },
+  {
+    "key": "de",
+    "lang": "de",
+    "label": "Deutsch",
+    "home": "/de/",
+    "locale": "de_DE"
+  },
+  {
+    "key": "fr",
+    "lang": "fr",
+    "label": "Français",
+    "home": "/fr/",
+    "locale": "fr_FR"
+  },
+  {
+    "key": "ru",
+    "lang": "ru",
+    "label": "Русский",
+    "home": "/ru/",
+    "locale": "ru_RU"
+  },
+  {
+    "key": "it",
+    "lang": "it",
+    "label": "Italiano",
+    "home": "/it/",
+    "locale": "it_IT"
+  },
+  {
+    "key": "el",
+    "lang": "el",
+    "label": "Ελληνικά",
+    "home": "/el/",
+    "locale": "el_GR"
+  },
+  {
+    "key": "nl",
+    "lang": "nl",
+    "label": "Nederlands",
+    "home": "/nl/",
+    "locale": "nl_NL"
+  },
+  {
+    "key": "pl",
+    "lang": "pl",
+    "label": "Polski",
+    "home": "/pl/",
+    "locale": "pl_PL"
+  },
+  {
+    "key": "pt",
+    "lang": "pt",
+    "label": "Português",
+    "home": "/pt/",
+    "locale": "pt_PT"
+  }
+]

@@ -1,0 +1,116 @@
+{% assign language = page.language | default: 'en' %}
+{% assign t = site.data.landing[language] %}
+<section class="hero container" aria-labelledby="hero-title">
+  <div class="hero-copy">
+    <p class="eyebrow"><span class="signal-dot" aria-hidden="true"></span>{{ t.hero_eyebrow }}</p>
+    <h1 id="hero-title"><span>{{ t.hero_title_1 }}</span><span class="accent">{{ t.hero_title_2 }}</span></h1>
+    <p class="hero-body">{{ t.hero_body }}</p>
+    <div class="hero-actions">
+      {% include store-badge.html %}
+      <a class="text-link" href="#discover">{{ t.hero_link }} <span aria-hidden="true">↓</span></a>
+    </div>
+    <p class="hero-note">{{ t.hero_note }}</p>
+  </div>
+  <figure class="hero-art">
+    <div class="hero-glow" aria-hidden="true"></div>
+    <span class="hero-wordmark" aria-hidden="true">Ting.</span>
+    <div class="phone-frame hero-device hero-device-discover">
+      <img src="{{ '/assets/images/genres-en.webp' | relative_url }}" width="1206" height="2622" alt="{{ t.showcase_items[0].alt }}">
+    </div>
+    <div class="phone-frame hero-device hero-device-player">
+      <img src="{{ '/assets/images/player-en.webp' | relative_url }}" width="1206" height="2622" alt="{{ t.hero_image_alt }}" fetchpriority="high">
+    </div>
+    <figcaption>{{ t.hero_caption }}</figcaption>
+  </figure>
+</section>
+
+<section id="discover" class="showcase-section section container" aria-labelledby="discovery-title">
+  <div class="section-heading">
+    <div><p class="eyebrow">{{ t.discovery_eyebrow }}</p><h2 id="discovery-title">{{ t.discovery_title | newline_to_br }}</h2></div>
+    <p class="section-description">{{ t.discovery_body }}</p>
+  </div>
+  <div class="showcase-grid" tabindex="0" role="group" aria-labelledby="discovery-title">
+    {% for item in t.showcase_items %}
+    <figure class="showcase-item">
+      <div class="showcase-surface showcase-surface-{{ forloop.index }}">
+        <div class="phone-frame">
+          <img src="{{ '/assets/images/' | append: item.image | relative_url }}" width="1206" height="2622" alt="{{ item.alt }}" loading="lazy">
+        </div>
+      </div>
+      <figcaption class="showcase-caption">
+        <span class="step-number" aria-hidden="true">0{{ forloop.index }}</span>
+        <div><h3>{{ item.title }}</h3><p>{{ item.body }}</p></div>
+      </figcaption>
+    </figure>
+    {% endfor %}
+  </div>
+  <p class="screens-note">{{ t.screens_note }}</p>
+</section>
+
+<section id="features" class="features-section section container" aria-labelledby="features-title">
+  <div class="section-heading">
+    <div><p class="eyebrow">{{ t.features_eyebrow }}</p><h2 id="features-title">{{ t.features_title }}</h2></div>
+    <p class="section-description">{{ t.features_body }}</p>
+  </div>
+  <div class="feature-grid">
+    {% for item in t.feature_items %}
+    <article class="feature-card">
+      <div class="feature-icon">{% include feature-icon.html icon=item.icon %}</div>
+      <h3>{{ item.title }}</h3>
+      <p class="feature-body">{{ item.body }}</p>
+      <p class="feature-entitlement">{{ item.entitlement }}</p>
+    </article>
+    {% endfor %}
+  </div>
+  <p class="fine-print features-note">{{ t.song_note }}</p>
+</section>
+
+<section id="everyday" class="everyday-section section" aria-labelledby="everyday-title">
+  <div class="container everyday-layout">
+    <div class="everyday-visual">
+      <div class="phone-frame">
+        <img src="{{ '/assets/images/sleep-timer-en.webp' | relative_url }}" width="1206" height="2622" alt="{{ t.everyday_image_alt }}" loading="lazy">
+      </div>
+    </div>
+    <div class="everyday-copy">
+      <p class="eyebrow">{{ t.everyday_eyebrow }}</p>
+      <h2 id="everyday-title">{{ t.everyday_title }}</h2>
+      <p class="section-description">{{ t.everyday_body }}</p>
+      <div class="scenes">
+        {% for scene in t.scenes %}
+        <article class="scene">
+          <p class="scene-label">{{ scene.label }}</p>
+          <h3>{{ scene.title }}</h3>
+          <p>{{ scene.body }}</p>
+        </article>
+        {% endfor %}
+      </div>
+      <p class="fine-print alarm-note">{{ t.alarm_note }}</p>
+    </div>
+  </div>
+</section>
+
+<section class="devices-section section container" aria-labelledby="devices-title">
+  <p class="eyebrow">{{ t.devices_eyebrow }}</p>
+  <div class="section-heading"><h2 id="devices-title">{{ t.devices_title }}</h2><p class="section-description">{{ t.devices_body }}</p></div>
+  <div class="device-grid">
+    {% for device in t.devices %}
+    {% case forloop.index %}{% when 1 %}{% assign device_icon = 'phone' %}{% when 2 %}{% assign device_icon = 'desktop' %}{% when 3 %}{% assign device_icon = 'watch' %}{% endcase %}
+    <article>
+      <div class="device-icon">{% include feature-icon.html icon=device_icon %}</div>
+      <h3>{{ device.name }}</h3><p>{{ device.body }}</p><p class="device-requirement">{{ device.requirement }}</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="faq-section section container" aria-labelledby="faq-title">
+  <div><p class="eyebrow">{{ t.faq_eyebrow }}</p><h2 id="faq-title">{{ t.faq_title }}</h2></div>
+  <div class="faq-list">{% for faq in t.faqs %}<article><h3>{{ faq.question }}</h3><p>{{ faq.answer }}</p></article>{% endfor %}</div>
+</section>
+
+<section class="closing-section container" aria-labelledby="closing-title">
+  <img src="{{ '/assets/images/app-icon.png' | relative_url }}" width="64" height="64" alt="" loading="lazy">
+  <p class="eyebrow">{{ t.cta_eyebrow }}</p><h2 id="closing-title">{{ t.cta_title }}</h2><p>{{ t.cta_body }}</p>
+  {% include store-badge.html %}
+</section>

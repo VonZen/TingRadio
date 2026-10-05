@@ -1,0 +1,8 @@
+{%- assign localized_path = include.locale.home -%}
+{%- if include.group == 'privacy' -%}
+  {{- '/privacypolicy/' -}}
+{%- elsif include.group == 'terms' -%}
+  {{- '/termsofservice/' -}}
+{%- else -%}
+  {{- localized_path -}}
+{%- endif -%}

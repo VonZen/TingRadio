@@ -1,0 +1,139 @@
+lang: nl
+locale: nl_NL
+home: /nl/
+language_label: Kies een taal
+title: "Ting Radio — De wereld, op jouw golflengte"
+description: "Ontdek live radio, onthoud je favoriete nummers en maak ruimte om te luisteren met Ting Radio. Vind je volgende favoriete station."
+skip: Naar de inhoud
+nav_label: Hoofdnavigatie
+nav_discover: De app
+nav_features: Functies
+nav_everyday: Elke dag luisteren
+download: Download in de App Store
+download_short: Download de app
+hero_eyebrow: LIVE RADIO. EEN BEETJE DICHTERBIJ.
+hero_title_1: De wereld,
+hero_title_2: op jouw ritme.
+hero_body: "Ontdek live radio, herken de nummers die je hoort en houd je favorieten dichtbij. Een native app voor je Apple-apparaten."
+hero_link: Neem een kijkje in de app
+hero_note: "Gratis te downloaden · Gemaakt voor je Apple-apparaten"
+hero_image_alt: Ting Radio speelt Classic Vinyl HD op iPhone, met nummerinformatie en een audiovisualisatie
+hero_caption: Een beetje ruimte om te luisteren.
+hero_tag_1: Je volgende jazzmiddag
+hero_tag_2: Rust om je te concentreren
+hero_tag_3: Ergens waar je nog niet was
+intro_label: Een nieuw hoofdstuk voor Ting Radio
+intro_text: "Minder zoeken. Meer luisteren. Een vernieuwde native app die nieuwe ontdekkingen, je favoriete stations en de nummers die je onderweg tegenkomt dichter bij elkaar brengt."
+discovery_eyebrow: IN TING RADIO
+discovery_title: "Vind een station.\nBlijf ontdekken."
+discovery_body: "Van je volgende station kiezen tot een nummer onthouden: zo werkt Ting Radio."
+discovery_note: "Ontdekken houdt rekening met je voorkeuren en luistergeschiedenis. Favorieten en eigen station-URL’s houden jouw stukje radio dichtbij."
+discovery_items:
+  - {name: Jazz, detail: Een middag zonder haast., image: jazz.webp, alt: Een saxofoon in warm licht, kind: Genre}
+  - {name: Focus, detail: Een beetje ruimte om te denken., image: focus.webp, alt: Boeken en een bureaulamp met warm licht, kind: Stemming}
+  - {name: Klassiek, detail: Laat de dag zich ontvouwen., image: classical.webp, alt: Een viool van dichtbij, kind: Genre}
+  - {name: Ontspannen, detail: Neem de lange weg naar huis., image: chill.webp, alt: Mist boven een rustig meer in het bos, kind: Stemming}
+song_eyebrow: LAAT EEN MOOI NUMMER NIET ONTSNAPPEN
+song_title: "Gehoord.\nOnthouden."
+song_body: "Een favoriet nummer kan opduiken wanneer je het niet verwacht. Herken audio van ondersteunde radiostreams, volg beschikbare songteksten en kijk terug in je nummergeschiedenis."
+song_steps:
+  - title: Geef het nummer een naam
+    body: Gebruik nummerherkenning terwijl een ondersteund station speelt. De beschikbaarheid hangt af van de stream en het apparaat.
+  - title: Volg de woorden
+    body: Volg gesynchroniseerde songteksten wanneer die beschikbaar zijn. De timing en gemarkeerde woorden hangen af van de aangeleverde songtekst.
+  - title: Vind het later terug
+    body: De nummergeschiedenis bewaart titels en artiesten die je tijdens het luisteren ontdekt. Ze bewaart informatie over nummers in plaats van audio-opnamen.
+song_art_label: VAN EEN MOMENT NAAR EEN HERINNERING
+song_art_text: Dat nummer waarvan je niet wist dat je het nodig had.
+song_note: "Sommige stations ondersteunen alleen eenvoudig luisteren. Songteksten, herkenning en beelden die op de audio reageren zijn afhankelijk van de stream. Nummerherkenning wordt niet ondersteund op Apple Watch."
+everyday_eyebrow: GOED GEZELSCHAP, DE HELE DAG
+everyday_title: Maak ruimte om te luisteren.
+everyday_body: Een paar doordachte details die passen bij jouw dag.
+scenes:
+  - number: "01"
+    title: Kom tot rust op jouw manier.
+    body: Kies een gratis vaste duur voor de slaaptimer en laat de muziek stoppen wanneer het tijd is om te rusten. Met Pro kun je zelf een duur instellen.
+    label: Slaaptimer
+  - number: "02"
+    title: Neem je stations mee.
+    body: "Gewoon luisteren via CarPlay is inbegrepen. Pro voegt de speciale rijmodus en bladeren op genre en stemming in CarPlay toe. De beschikbaarheid hangt af van je opstelling."
+    label: Rijden en CarPlay
+  - number: "03"
+    title: Begin met iets waar je van houdt.
+    body: "Geef je favoriete station een plek in je ochtendroutine. Iets om naar uit te kijken wanneer de dag begint."
+    label: Radiowekker*
+alarm_note: "* De radiowekker is een Pro-functie waarvoor iOS 26 of nieuwer en toestemming voor wekkers nodig zijn. Eerst gaat het systeemalarm af; tik op Open station om te luisteren."
+devices_eyebrow: THUIS IN JOUW APPLE-WERELD
+devices_title: Vertrouwd, waar je ook luistert.
+devices_body: "Een native ervaring voor iPhone, iPad, Mac en Apple Watch. De functies verschillen per apparaat."
+devices:
+  - {name: iPhone en iPad, requirement: "Vereist iOS / iPadOS 18+", body: "AirPlay, bediening op het toegangsscherm en een native luisterervaring."}
+  - {name: Mac, requirement: "Vereist macOS 15+", body: Een eigen native app voor je bureau en je dag.}
+  - {name: Apple Watch, requirement: "Vereist watchOS 11+", body: "Favorieten, recente stations en aangepaste stations worden gesynchroniseerd met je gekoppelde iPhone."}
+faq_eyebrow: VOORDAT JE AFSTEMT
+faq_title: Een paar dingen om te weten.
+faqs:
+  - question: Is Ting Radio gratis?
+    answer: "Ting Radio is gratis te downloaden. Dagelijks radio luisteren, favorieten, aangepaste stations en vaste duren voor de slaaptimer zijn inbegrepen. Pro biedt meer manieren om van je stations te genieten."
+  - question: Kan ik offline luisteren of een programma opnemen?
+    answer: "Ting Radio streamt live radio via internet. De app biedt geen offline opnamen of terugluisteren van programma’s. Stations bepalen zelf hun streams, inhoud en beschikbaarheid."
+  - question: Wordt alles tussen mijn apparaten gesynchroniseerd?
+    answer: "Ting Radio ondersteunt de synchronisatie van stations tussen iPhone en de gekoppelde Apple Watch. Volledige synchronisatie van de bibliotheek via een account op alle platforms wordt niet beloofd."
+  - question: Verwijdert Pro advertenties van radiostations?
+    answer: "Advertenties die een station uitzendt, maken deel uit van de eigen audiostream. Ting Radio kan ze niet verwijderen en Pro biedt geen verwijdering van advertenties."
+cta_eyebrow: ER IS ALTIJD IETS TE HOREN
+cta_title: Vind je volgende favoriete frequentie.
+cta_body: Maak een beetje ruimte voor muziek, stemmen en de wereld buiten.
+footer_tagline: De wereld, een beetje dichterbij.
+footer_support: Neem contact op
+footer_privacy: Privacybeleid
+footer_terms: Gebruiksvoorwaarden
+privacy_url: /privacypolicy/
+terms_url: /termsofservice/
+back_home: Terug naar Ting Radio
+legal_context: Over Ting Radio
+not_found_title: Deze frequentie is stil.
+not_found_body: De pagina die je zoekt is misschien verplaatst. We brengen je terug naar Ting Radio.
+screens_note: De getoonde appschermen zijn in het Engels.
+showcase_items:
+  - image: genres-en.webp
+    title: Vind jouw frequentie
+    body: Blader op genre, stemming, regio of taal. Volg je nieuwsgierigheid.
+    alt: Het Engelstalige genreoverzicht van Ting Radio op iPhone, met muziekcategorieën en een minispeler
+  - image: player-en.webp
+    title: Laat het geluid binnen
+    body: Je station, de nummerinformatie en de bediening die je nodig hebt op één plek.
+    alt: De Engelstalige speler van Ting Radio op iPhone speelt Classic Vinyl HD met audiovisualisatie
+  - image: song-history-en.webp
+    title: Onthoud wat je hoort
+    body: Bekijk de informatie over een nummer en het station waar je het ontdekte.
+    alt: De Engelstalige nummergeschiedenis van Ting Radio op iPhone toont nummers van Classic Vinyl HD en Frisky
+features_eyebrow: JOUW MANIER VAN LUISTEREN
+features_title: Elke keer iets meer.
+features_body: De functies voor elke dag zijn inbegrepen. Pro biedt meer manieren om van je stations te genieten.
+feature_items:
+  - icon: radio
+    title: Ontdekken en bewaren
+    body: Blader op genre, stemming, regio of taal en houd je favorieten dichtbij. Voeg ook je eigen station-URL’s toe.
+    entitlement: Inbegrepen
+  - icon: recognition
+    title: Nummerherkenning en songteksten
+    body: Herken audio van ondersteunde radiostreams en volg de songteksten wanneer die beschikbaar zijn.
+    entitlement: Gratis met dagelijkse limiet · Onbeperkt met Pro
+  - icon: history
+    title: Nummergeschiedenis
+    body: Vind ontdekte nummers terug, met titels, artiesten en stationgegevens. Opgeslagen als informatie, niet als opnamen.
+    entitlement: Inbegrepen
+  - icon: moon
+    title: Slaaptimer
+    body: Kies een vaste duur en laat het afspelen stoppen wanneer het tijd is om te rusten.
+    entitlement: Vaste duren inbegrepen · Eigen duur met Pro
+  - icon: car
+    title: Rijden en CarPlay
+    body: Houd je stations binnen handbereik met gewoon luisteren via CarPlay of de speciale Pro-rijmodus.
+    entitlement: Luisteren via CarPlay inbegrepen · Rijmodus en ontdekken met Pro
+  - icon: alarm
+    title: Radiowekker
+    body: Kies een station voor je ochtendroutine. Tik op Open station nadat het systeemalarm is afgegaan om te luisteren.
+    entitlement: Pro · iOS 26+
+everyday_image_alt: De Engelstalige slaaptimer van Ting Radio op iPhone, met vaste duren en een optie voor een eigen duur

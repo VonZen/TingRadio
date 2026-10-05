@@ -1,103 +1,70 @@
 ---
 layout: page
 title: Terms of service
-include_in_header: false
+description: Terms for Ting Radio listening, external content, Pro access and support.
+language: en
+permalink: /termsofservice/
+translated: false
+english_only: true
+translation_key: terms
 ---
 
-**Last updated** Sep 13 2023
+# Terms of service
 
-# Terms of service 
+Last updated: 5 October 2026
 
-These Terms of Service explain the terms and conditions that apply to your access and use of the we (referred in this policy as ‘Ting Radio’ or ‘we’, us’ and ‘our’) Service and constitutes a legally binding agreement between you and us.
+These terms describe your use of Ting Radio, developed and maintained by Vonzen, and its website. Questions and support requests can be sent to [VonzenApp@outlook.com](mailto:VonzenApp@outlook.com). By using the service, you agree to these terms. If you do not agree, please stop using it.
 
-Please read these Terms carefully. By using the our Service, you acknowledge that you have read, understood, and agree to be bound by this entire Agreement. This Agreement is a legal agreement between you and us and the terms hereof apply to you whether you are a registered user or a visitor using the Applications (as defined below). If you do not agree with this Agreement, do not use the our Service.
+## 1. The service
 
-We may change these Terms from time to time, so please review them regularly.
+Ting Radio helps you discover and listen to internet radio, organise stations and access supported song information and listening features. A Ting Radio account is not required. Some Apple services, including purchases, may require an Apple account.
 
-## 1.Our Service
+Radio playback needs an internet connection and may use mobile data. You are responsible for your connectivity and any charges from your network provider. Stations, songs, lyrics and other external resources may be unavailable in some regions or change without notice from Ting Radio.
 
-We is the digital equivalent of a radio receiver. Our Service consists of an index of radio stations designed to simplify finding radio programming from broadcast or radio sources, whether available through our website or through any software applications made available for mobile devices, computers or car systems. Us is not a broadcaster and its directory service just redirects users to specific content providers in accordance with their publicly available services. Us is an intermediary which connects (via embedded hyperlinks) users to radios broadcasting over the Internet. Us does not own any of the brands it lists or claim any rights in the content that listeners may access. Us complies with the applicable laws and fully respects third party rights. Us is not liable for any content that any of the listed radio stations broadcasts.
+You must have the legal capacity to accept these terms, or use the service with a parent or guardian’s consent and supervision as required by applicable law. Parents and guardians should assess whether the selected stations are suitable for the child.
 
-## 2.Changes to our Service
+## 2. App licence and responsible use
 
-We may change, add or remove features and functionalities of its service without notice. We can at its discretion discontinue some or all of the features of the service at any time (including new updates). We shall not be liable for any modification, suspension or discontinuance of the service. If you are dissatisfied with any changes on the service, then your only option is to no longer use Ting Radio.
+Your downloaded app is governed by the licence presented through the App Store, including [Apple's Standard End User Licence Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) where no custom licence is provided. These service terms supplement that licence and do not replace Apple's purchase terms or any mandatory consumer rights.
 
-## 3. Privacy Policy
+Use the service lawfully and respect other people's rights. Do not use it to bypass access restrictions, redistribute broadcasts without permission, interfere with services or access systems without authorisation. Add or share custom station addresses only where you have the right to do so. The app's software and branding remain the property of their respective owners, subject to applicable open-source licences.
 
-Our Privacy Policy is available at [privacypolicy](https://vonzen.github.io/TingRadio/privacypolicy/) or within the Applications and governs the manner in which us collects, uses, maintains and discloses information collected from users. This privacy policy applies to the Applications and all products and services offered by us. Please read it carefully before using the our Service. By using the service provided by us, you agree to the terms and conditions of our Privacy Policy and declare that you understand the options us provides to you in what concerns to your personal information.
+## 3. Radio and other external content
 
-## 4. Using our Service
+Ting Radio is an internet-radio discovery and playback tool. Directory information is supplied by [Radio Browser](https://www.radio-browser.info/), and playback connects to the selected broadcaster or stream provider. Ting Radio does not produce, host or control these broadcasts.
 
-Our service is provided only for your personal and non-commercial use and you may not transfer our Service to a third party. You agree that you will not resell, sublicense, transfer, rent, lease, or exploit our Service commercially, in a whole or in a part. You agree that you will not use the our Service in any unlawful manner and that you will not attempt to gain unauthorized access to it (by modifying it, adapting it or hacking it). Collecting or storing personal data about other users without their express permission is strictly forbidden.
+Station names, logos, trademarks, programmes, streams, music, artwork and lyrics belong to their respective rights holders. A directory listing or display in the app does not imply ownership, endorsement, a partnership or verification of all rights by Ting Radio. Access to a directory or a playable stream is not itself permission to reproduce, redistribute or commercially exploit the content. Pro purchases provide app features and do not grant such rights to third-party content.
 
-When using the our Service through a mobile device, your wireless service carrier's standard charges, data rates and other fees may apply, and you acknowledge that you are solely responsible for all such fees and charges.
+Stations control their content, availability and broadcast advertising. Pro does not remove advertisements embedded in a station's audio. Song recognition and lyric matches can be incomplete or incorrect. The app does not provide offline audio recordings or programme replay; song history stores song information.
 
-## 5. Third Party Content
+External services have their own terms and policies. If you believe something accessible through Ting Radio infringes your rights, email us with the affected station or resource address, a description of the issue and sufficient information to understand your claim. We will review requests relating to resources within our control; the broadcaster or source provider may also need to be contacted.
 
-<u>Third Party Content definition</u> 
+Please also include your contact details and explain whether you are the rights holder or an authorised representative. After reviewing a claim, we may correct or remove relevant listings, or restrict access within our control, as appropriate. We cannot remove content from an independent broadcaster’s servers.
 
-<u>“Third Party Content” contemplates:</u>
+## 4. Free features and Pro
 
-+ <u>Any broadcast radio programs that  our Service gives you the ability to listen to;</u>
+Ting Radio includes free listening features and optional Pro features. Current availability and purchase conditions are shown in the app and Apple's confirmation sheet. Features and allowances may depend on your device, operating system, stream format and external data source. Pro does not guarantee that every station supports recognition, lyrics or visualisation.
 
-+ <u>Any photos, images,  musical works, album artworks, data, information, feedback, suggestions, text, content and other materials that a third party may record, upload, post, publish, submit, deliver, provide or otherwise transmit;</u>
-+ <u>Any links or other access to websites and resources on the Internet;</u>
+Apple processes purchases. Restore Purchases in the app can check eligible previous purchases using the relevant Apple account. Purchase validity and Pro access may require a network connection.
 
-<u>Third Party Content may be copyrighted and protected.</u>
+If you choose an auto-renewing subscription, its term and renewal conditions are those shown by Apple when you confirm. You can [manage or cancel it through Apple](https://support.apple.com/en-us/118428). Deleting Ting Radio does not cancel a subscription. Refund eligibility and requests are handled through [Apple's refund process](https://support.apple.com/en-us/118223), subject to applicable law. A non-renewing purchase does not create an auto-renewing subscription.
 
-You acknowledge and agree that Third Party Content may be the copyrighted material of the third party that supplies it. Therefore the content accessed on the basis of our service that is protected by copyright law and other applicable laws, may not be reproduced, used to prepare derivative works, performed publicly or displayed publicly and distributed without the written consent of the third party that supplied it, except as permitted by applicable law.
+## 5. Devices, alarms and driving
 
-Third Party Content may be transmitted with a variety of copy protection mechanisms, which are designed to protect the copyright interests of the relevant third party. These copy protection mechanisms may constraint or prevent the ability of our Service to play Third Party Content.
+Features differ across iPhone, iPad, Mac and Apple Watch. Companion station synchronisation is supported between an iPhone and its paired Apple Watch; these terms do not promise a shared cloud library across every platform. CarPlay depends on a compatible setup, and driving features do not replace your responsibility to follow traffic rules. Set up listening before driving and use controls only when safe and lawful.
 
-You understand that us does not control the decision of a third party to institute such copy protection mechanisms. You agree that us can not be held responsible in what concerns your or any third party’s ability to access or listen to, any Third Party Content due to a copy protection mechanism.
+Radio wake-up is a Pro feature on supported iPhones with iOS 26 or later and alarm permission. The system alarm rings first. You must tap Open Station to open Ting Radio and begin station playback; a network connection and available stream are required. The feature does not guarantee unattended radio playback or successful playback in every device state. Do not rely on it as the sole alarm for a safety-critical purpose.
 
-Due to copyright protection mechanisms it is strictly forbidden to extract, remove or otherwise change content or by any means make any attempts thereto. Any attempt to do so may subject you to liability and can result in the suspension or deletion of your account(later).
+Sleep timers stop app playback according to supported settings. They do not control a broadcaster's stream or other apps. Operating-system behaviour and external service availability may affect these features.
 
-<u>We are not responsible for the nature of the Third Party Content.</u>
+## 6. Privacy and service changes
 
-Our Service gives you the ability to listen to and access Third Party Content over which we exercises no editorial or programming control. We are not responsible for the nature of the Third Party Content.
+Our [Privacy Policy]({{ '/privacypolicy/' | relative_url }}) explains local data and the requests needed for radio, song services, purchases and the website.
 
-You also understand that:
+We may update the app, features and these terms as the service develops. External stations and services may change or stop independently. When terms change, we will publish the revised text and date on this page, with any additional notice required by law. Changes do not override rights attached to an existing purchase or mandatory legal protections.
 
-Our Service does not guarantee the access to, recording of, listening to, or viewing of any particular Third Party Content;
+## 7. Availability, rights and support
 
- Third Party Content is not under our control and our Service is not responsible for it and does not in any way endorse such Third Party Content;
+We aim to keep Ting Radio useful and available, but cannot guarantee uninterrupted connections, the accuracy of external content or compatibility with every stream and device. To the extent allowed by applicable law and the app licence, the service is provided as available. Nothing in these terms excludes liability that cannot lawfully be excluded, including applicable statutory warranties and consumer remedies.
 
-Third Party Content providers may change or delete Third Party Content or schedules at any time;
-
-## 6. Advertisements, Sponsorships and Partnerships
-
-We may display advertisements for goods and/or services of third parties or other promotional materials through our Service. Your participation in promotions of any third party advertisers through our Service is solely between you and such third party and your participation is subject to the terms and conditions associated with that advertisement or promotion. By using our Service you agree that us is not responsible or liable for any damage or loss of any sort incurred as the result of participation on those promotions.
-
-<u>The same applies to any links to third party websites (i.e. websites not owned or operated by us) displayed in Ting Radio.</u>
-
-## 7. Intellectual Property and licenses
-
-Any software that may be made available by our Service contains proprietary and confidential information that is protected by applicable intellectual property laws. Our Service grants you a personal and non-exclusive right and license to use these software programs only for personal and non-commercial use of our Service. Any other rights not expressly granted herein are reserved by us.
-
-You shall not use the our Service to perform any action of data mining, scraping or similar data gathering or extraction methods. Any use of our Service other than as specifically authorized herein is strictly prohibited.
-
-We respects and protects the copyright and the intellectual property of others and takes this subject very seriously. We also ask our users to do the same: <u>respect third party rights!</u>
-
-Infringing activity regarding intellectual property will not be tolerated on our Service. Upon notice from an intellectual property owner or its agent us will remove any material from our Service that we believe is infringing the intellectual property rights of a third party by being made available through our Service. 
-
-## 8.Notice for Apple Users
-
-Since our Service is available on the Apple App Store, as an Application, you acknowledge that this Agreement is between you and us only, not with Apple, and Apple is not responsible for the Application or the content thereof.
-
-Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Application. In the event of any failure of the Application to conform to any applicable warranty, then you may notify Apple and Apple will refund the purchase price for the relevant Application to you; and, to the maximum extent permitted by applicable law, Apple has no other warranty obligation whatsoever with respect to the Application.
-
-Apple is not responsible for addressing any claims by you or any third party relating to the Application or your possession and/or use of the Application, including, but not limited to:
-
--  Product liability claims or claims being under consumer protection or similar legislation. 
--  Any claim that the Application fails to conform to any applicable legal or regulatory requirement in any country;
-
-Apple is not responsible for the investigation, defense, settlement and discharge of any third party claim that the Application or your possession and use of the Application infringes that third party’s intellectual property rights. Please refer to section 7, regarding copyright or other intellectual property infringements.
-
-You agree to comply with any applicable third party terms, when using the Application.
-
-## 9.Contacting Us 
-
-We love hearing your voice. Let’s contact us and stay connected!
-
-Email: VonzenApp@outlook.com
+If a problem arises, contact [VonzenApp@outlook.com](mailto:VonzenApp@outlook.com) with the device, system version and a description of the issue. For disputes, applicable law determines your rights and available remedies; these terms do not require you to give up mandatory protections in your place of residence.

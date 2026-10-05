@@ -1,0 +1,139 @@
+lang: pl
+locale: pl_PL
+home: /pl/
+language_label: Wybierz język
+title: "Ting Radio — Świat na Twojej fali"
+description: "Odkrywaj radio na żywo, zapamiętuj piosenki i znajdź czas na słuchanie z Ting Radio. Znajdź swoją kolejną ulubioną stację."
+skip: Przejdź do treści
+nav_label: Nawigacja główna
+nav_discover: Aplikacja
+nav_features: Funkcje
+nav_everyday: Na co dzień
+download: Pobierz z App Store
+download_short: Pobierz aplikację
+hero_eyebrow: RADIO NA ŻYWO. TROCHĘ BLIŻEJ.
+hero_title_1: Świat
+hero_title_2: na Twojej fali.
+hero_body: "Odkrywaj radio na żywo, rozpoznawaj usłyszane piosenki i miej ulubione stacje pod ręką. Natywna aplikacja na Twoje urządzenia Apple."
+hero_link: Zajrzyj do środka
+hero_note: "Bezpłatne pobieranie · Dla Twoich urządzeń Apple"
+hero_image_alt: Ting Radio na iPhonie odtwarza Classic Vinyl HD i pokazuje informacje o utworze oraz wizualizację dźwięku
+hero_caption: Trochę miejsca na słuchanie.
+hero_tag_1: Kolejne popołudnie z jazzem
+hero_tag_2: Spokojniejsze skupienie
+hero_tag_3: Gdzieś indziej
+intro_label: Nowy rozdział Ting Radio
+intro_text: "Mniej szukania. Więcej słuchania. Odświeżona natywna aplikacja łączy odkrywanie, ulubione stacje i utwory napotkane po drodze."
+discovery_eyebrow: W ŚRODKU TING RADIO
+discovery_title: "Znajdź stację.\nZostań dla odkryć."
+discovery_body: "Od wyboru kolejnej stacji po zapamiętanie piosenki — zobacz, jak działa Ting Radio."
+discovery_note: "Odkrywanie uwzględnia Twoje preferencje i historię słuchania. Ulubione i własne adresy stacji pozwalają mieć swój radiowy zakątek zawsze blisko."
+discovery_items:
+  - {name: Jazz, detail: Wolniejsze popołudnie., image: jazz.webp, alt: Saksofon w ciepłym świetle, kind: Gatunek}
+  - {name: Skupienie, detail: Trochę przestrzeni na myśli., image: focus.webp, alt: Książki i lampka biurkowa z ciepłym światłem, kind: Nastrój}
+  - {name: Klasyczna, detail: Niech dzień płynie swoim rytmem., image: classical.webp, alt: Zbliżenie skrzypiec, kind: Gatunek}
+  - {name: Relaks, detail: Wybierz dłuższą drogę do domu., image: chill.webp, alt: Mgła nad spokojnym leśnym jeziorem, kind: Nastrój}
+song_eyebrow: NIE POZWÓL DOBREJ PIOSENCE UMKNĄĆ
+song_title: "Usłysz.\nZapamiętaj."
+song_body: "Ulubiona piosenka może pojawić się niespodziewanie. Rozpoznawaj utwory z obsługiwanych stacji, śledź dostępne teksty i wracaj do historii utworów."
+song_steps:
+  - title: Poznaj tytuł piosenki
+    body: Użyj rozpoznawania utworów podczas odtwarzania obsługiwanej stacji. Dostępność zależy od strumienia i urządzenia.
+  - title: Podążaj za słowami
+    body: Śledź zsynchronizowane teksty, jeśli są dostępne. Synchronizacja i wyróżnianie słów zależą od danych tekstu danego utworu.
+  - title: Znajdź ją ponownie
+    body: Historia utworów zachowuje tytuły i wykonawców odkrytych podczas słuchania. Zapisuje informacje o utworach, a nie nagrania dźwięku.
+song_art_label: OD CHWILI DO WSPOMNIENIA
+song_art_text: Piosenka, której potrzebujesz, choć jeszcze o tym nie wiesz.
+song_note: "Niektóre stacje obsługują tylko podstawowe słuchanie. Teksty, rozpoznawanie i wizualizacje reagujące na dźwięk zależą od strumienia. Rozpoznawanie utworów nie jest obsługiwane na Apple Watch."
+everyday_eyebrow: DOBRE TOWARZYSTWO PRZEZ CAŁY DZIEŃ
+everyday_title: Znajdź miejsce na słuchanie.
+everyday_body: Kilka przemyślanych szczegółów dopasowanych do rytmu Twojego dnia.
+scenes:
+  - number: "01"
+    title: Odpoczywaj na swoich zasadach.
+    body: Wybierz bezpłatny gotowy czas wyłącznika i pozwól, by odtwarzanie skończyło się, gdy pora odpocząć. Pro pozwala ustawić własny czas.
+    label: Wyłącznik czasowy
+  - number: "02"
+    title: Zabierz stacje ze sobą.
+    body: "Podstawowe słuchanie przez CarPlay jest bezpłatne. Pro dodaje osobny widok jazdy i przeglądanie według gatunku i nastroju w CarPlay. Dostępność zależy od Twojego sprzętu."
+    label: Jazda i CarPlay
+  - number: "03"
+    title: Zacznij od tego, co lubisz.
+    body: "Włącz ulubioną stację do porannej rutyny. Niech początek dnia przynosi coś miłego."
+    label: Budzenie z radiem*
+alarm_note: "* Budzenie z radiem to funkcja Pro wymagająca iOS 26 lub nowszego i uprawnienia do alarmów. Najpierw dzwoni alarm systemowy; stuknij „Otwórz stację”, aby zacząć słuchać."
+devices_eyebrow: W TWOIM ŚWIECIE APPLE
+devices_title: Znajomo wszędzie, gdzie słuchasz.
+devices_body: "Natywna aplikacja na iPhone, iPad, Mac i Apple Watch. Funkcje różnią się zależnie od urządzenia."
+devices:
+  - {name: iPhone i iPad, requirement: "Wymaga iOS / iPadOS 18+", body: "AirPlay, sterowanie na ekranie blokady i natywne środowisko słuchania."}
+  - {name: Mac, requirement: "Wymaga macOS 15+", body: Osobna natywna aplikacja na Twoje biurko i na co dzień.}
+  - {name: Apple Watch, requirement: "Wymaga watchOS 11+", body: Ulubione oraz ostatnie i własne stacje synchronizują się ze sparowanym iPhonem.}
+faq_eyebrow: ZANIM ZACZNIESZ SŁUCHAĆ
+faq_title: Kilka przydatnych informacji.
+faqs:
+  - question: Czy Ting Radio jest bezpłatne?
+    answer: "Ting Radio można pobrać bezpłatnie. Zawiera codzienne słuchanie radia, ulubione, własne stacje i gotowe czasy wyłącznika. Pro dodaje więcej sposobów korzystania ze stacji."
+  - question: Czy mogę słuchać offline lub nagrać audycję?
+    answer: "Ting Radio przesyła radio na żywo przez internet. Nie oferuje nagrań offline ani powtórek audycji. Stacje same kontrolują swoje strumienie, treści i dostępność."
+  - question: Czy wszystko zsynchronizuje się między urządzeniami?
+    answer: "Ting Radio obsługuje synchronizację stacji między iPhonem i sparowanym Apple Watch. Nie obiecuje pełnej synchronizacji biblioteki przez konto na wszystkich platformach."
+  - question: Czy Pro usuwa reklamy ze stacji radiowych?
+    answer: "Reklamy nadawane przez stację są częścią jej strumienia dźwięku. Ting Radio nie może ich usunąć, a Pro nie obejmuje usuwania reklam."
+cta_eyebrow: ZAWSZE COŚ GRA
+cta_title: Znajdź kolejną ulubioną częstotliwość.
+cta_body: Zrób trochę miejsca na muzykę, głosy i świat wokół.
+footer_tagline: Świat trochę bliżej.
+footer_support: Skontaktuj się
+footer_privacy: Polityka prywatności
+footer_terms: Warunki korzystania
+privacy_url: /privacypolicy/
+terms_url: /termsofservice/
+back_home: Powrót do Ting Radio
+legal_context: O Ting Radio
+not_found_title: Ta częstotliwość milczy.
+not_found_body: Strona, której szukasz, mogła zostać przeniesiona. Wróćmy do Ting Radio.
+screens_note: Na ilustracjach pokazano angielski interfejs aplikacji.
+showcase_items:
+  - image: genres-en.webp
+    title: Znajdź swoją częstotliwość
+    body: Przeglądaj według gatunku, nastroju, regionu lub języka. Daj się prowadzić ciekawości.
+    alt: Angielska przeglądarka gatunków Ting Radio na iPhonie z kategoriami muzyki i miniodtwarzaczem
+  - image: player-en.webp
+    title: Zanurz się w dźwięku
+    body: Twoja stacja, informacje o utworze i potrzebne sterowanie w jednym miejscu.
+    alt: Angielski odtwarzacz Ting Radio na iPhonie odtwarza Classic Vinyl HD i pokazuje wizualizację dźwięku
+  - image: song-history-en.webp
+    title: Zapamiętaj, co grało
+    body: Wróć do informacji o utworze i stacji, na której zabrzmiał.
+    alt: Angielska historia utworów Ting Radio na iPhonie z piosenkami usłyszanymi na Classic Vinyl HD i Frisky
+features_eyebrow: SŁUCHAJ PO SWOJEMU
+features_title: Więcej w każdej chwili słuchania.
+features_body: Codzienne funkcje są bezpłatne. Pro dodaje więcej sposobów korzystania ze stacji.
+feature_items:
+  - icon: radio
+    title: Odkrywaj i zapisuj
+    body: Przeglądaj według gatunku, nastroju, regionu lub języka i zachowaj ulubione stacje. Możesz też dodać własne adresy.
+    entitlement: Bezpłatnie
+  - icon: recognition
+    title: Rozpoznawanie i teksty
+    body: Rozpoznawaj utwory z obsługiwanych stacji i śledź teksty, jeśli są dostępne.
+    entitlement: Bezpłatny limit dzienny · Bez limitu z Pro
+  - icon: history
+    title: Historia utworów
+    body: Wracaj do odkrytych piosenek, ich tytułów, wykonawców i stacji. Zapisujemy informacje, a nie nagrania.
+    entitlement: Bezpłatnie
+  - icon: moon
+    title: Wyłącznik czasowy
+    body: Wybierz gotowy czas, aby odtwarzanie skończyło się, gdy pora odpocząć.
+    entitlement: Gotowe czasy bezpłatnie · Własny z Pro
+  - icon: car
+    title: Jazda i CarPlay
+    body: Miej stacje pod ręką dzięki podstawowemu słuchaniu przez CarPlay lub osobnemu widokowi jazdy w Pro.
+    entitlement: Podstawowe CarPlay bezpłatnie · Jazda i odkrywanie z Pro
+  - icon: alarm
+    title: Budzenie z radiem
+    body: Wybierz stację na poranek. Po alarmie systemowym stuknij „Otwórz stację”, aby zacząć słuchać.
+    entitlement: Pro · iOS 26+
+everyday_image_alt: Angielski wyłącznik czasowy Ting Radio na iPhonie z gotowymi czasami i opcją własnego ustawienia
