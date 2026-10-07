@@ -45,7 +45,7 @@ At startup, the app may request an approximate region from [ipwho.is](https://ip
 
 Song recognition uses Apple ShazamKit with audio from the station being played. It can start when you open or use recognition, and may run again to refresh the recognition panel while it is open. A separate tap is not required for every match. It does not record through your microphone. [Apple describes ShazamKit](https://developer.apple.com/shazamkit/) as matching a one-way acoustic signature without sharing the audio with Apple.
 
-The current app does not request online lyrics. Apple's iTunes Search or Lookup services may receive a title, artist or Apple Music identifier to find artwork and song information.
+Apple's iTunes Search or Lookup services may receive a title, artist or Apple Music identifier to find artwork and song information.
 
 These services and their hosting providers also receive ordinary network request information. Matching results may be cached on your device. Ting Radio does not upload your complete local library or listening history as part of these requests.
 

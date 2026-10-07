@@ -17,7 +17,7 @@ These terms describe your use of Ting Radio, developed and maintained by Vonzen,
 
 ## 1. The service
 
-Ting Radio helps you discover and listen to internet radio, organise stations and access supported song information and listening features. The current app does not provide online lyrics. A Ting Radio account is not required. Some Apple services, including purchases, may require an Apple account.
+Ting Radio helps you discover and listen to internet radio, organise stations and access supported song information and listening features. A Ting Radio account is not required. Some Apple services, including purchases, may require an Apple account.
 
 Radio playback needs an internet connection and may use mobile data. You are responsible for your connectivity and any charges from your network provider. Stations, songs and other external resources may be unavailable in some regions or change without notice from Ting Radio.
 
@@ -37,7 +37,7 @@ Ting Radio is an internet-radio discovery and playback tool. Directory informati
 
 Radio Browser describes its collected station-directory data as public domain and provides an API for use in other apps. This concerns directory information, such as station names, tags and stream links; it does not place the linked broadcasts, music, logos or other content in the public domain or grant rights to them.
 
-Station names, logos, trademarks, programmes, streams, music, artwork and lyrics belong to their respective rights holders. A directory listing or display in the app does not imply ownership, endorsement, a partnership or verification of all rights by Ting Radio. Access to a directory or a playable stream is not itself permission to reproduce, redistribute or commercially exploit the content. Pro purchases provide app features and do not grant such rights to third-party content.
+Station names, logos, trademarks, programmes, streams, music, artwork and other content belong to their respective rights holders. A directory listing or display in the app does not imply ownership, endorsement, a partnership or verification of all rights by Ting Radio. Access to a directory or a playable stream is not itself permission to reproduce, redistribute or commercially exploit the content. Pro purchases provide app features and do not grant such rights to third-party content.
 
 Stations control their content, availability and broadcast advertising. Pro does not remove advertisements embedded in a station's audio. Song recognition can be incomplete or incorrect. The app does not provide offline audio recordings or programme replay; song history stores song information.
 

@@ -7,6 +7,12 @@
       "name": "Bandit Rock",
       "reason": "Stream requires authentication (HTTP 401); not a public stream",
       "added": "2026-10-07"
+    },
+    {
+      "id": "0fc7173f-5106-4c47-9156-621124fb0803",
+      "name": "SBS Love FM",
+      "reason": "Directory URL carries an access token and returns HTTP 403; not a stable public stream",
+      "added": "2026-10-07"
     }
   ],
   "hosts": []
