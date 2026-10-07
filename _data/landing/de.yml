@@ -35,17 +35,17 @@ discovery_items:
   - {name: Entspannen, detail: Nimm den längeren Weg nach Hause., image: chill.webp, alt: Nebel über einem stillen Waldsee, kind: Stimmung}
 song_eyebrow: LASS EINEN GUTEN SONG NICHT ZIEHEN
 song_title: "Gehört.\nGemerkt."
-song_body: "Ein Lieblingssong kann dich ganz unerwartet finden. Erkenne Songs aus unterstützten Radio-Streams, lies verfügbare Songtexte mit und stöbere in deinem Songverlauf."
+song_body: "Ein Lieblingssong kann dich ganz unerwartet finden. Erkenne Songs aus unterstützten Radio-Streams und stöbere in deinem Songverlauf."
 song_steps:
   - title: Gib dem Song einen Namen
     body: Nutze die Titel-Erkennung, während ein unterstützter Sender läuft. Die Verfügbarkeit hängt vom Stream und vom Gerät ab.
-  - title: Bleib bei den Worten
-    body: Lies synchronisierte Songtexte mit, wenn sie verfügbar sind. Zeitliche Abstimmung und Wortmarkierungen hängen von den gelieferten Songtexten ab.
+  - title: Wissen, wo er lief
+    body: Sendername und Details bleiben bei jedem Song, damit du zum Sender zurückfindest, der ihn gespielt hat.
   - title: Finde ihn später wieder
     body: Der Songverlauf merkt sich Titel und Interpreten, die du beim Hören entdeckt hast. Er speichert Songinformationen, keine Audioaufnahmen.
 song_art_label: AUS EINEM MOMENT WIRD EINE ERINNERUNG
 song_art_text: Der Song, von dem du nicht wusstest, dass er dir fehlt.
-song_note: "Manche Sender unterstützen nur die grundlegende Wiedergabe. Songtexte, Titel-Erkennung und Visualisierungen, die auf Musik reagieren, hängen vom Stream ab. Die Titel-Erkennung wird auf der Apple Watch nicht unterstützt."
+song_note: "Manche Sender unterstützen nur die grundlegende Wiedergabe. Titel-Erkennung und Visualisierungen, die auf Musik reagieren, hängen vom Stream ab. Die Titel-Erkennung wird auf der Apple Watch nicht unterstützt."
 everyday_eyebrow: GUTE GESELLSCHAFT, DEN GANZEN TAG
 everyday_title: Nimm dir Zeit zum Hören.
 everyday_body: Kleine, durchdachte Details für deinen Alltag.
@@ -117,8 +117,8 @@ feature_items:
     body: Stöbere nach Genre, Stimmung, Region oder Sprache und hab deine Favoriten immer zur Hand. Füge auch eigene Sender-URLs hinzu.
     entitlement: Enthalten
   - icon: recognition
-    title: Titel-Erkennung & Songtexte
-    body: Erkenne Songs aus unterstützten Radio-Streams und lies verfügbare Songtexte mit.
+    title: Titel-Erkennung
+    body: Erkenne Songs aus unterstützten Radio-Streams, während du zuhörst.
     entitlement: Kostenlos mit Tageslimit · Unbegrenzt mit Pro
   - icon: history
     title: Songverlauf

@@ -35,17 +35,17 @@ discovery_items:
   - {name: 放松, detail: 把片刻还给自己。, image: chill.webp, alt: 薄雾笼罩的森林湖泊, kind: 心情}
 song_eyebrow: 别让好歌擦肩而过
 song_title: "偶然听见，\n也能好好记住。"
-song_body: "喜欢的歌，往往来得不经意。识别支持的电台音频，跟随可用歌词，在歌曲历史中找回那些听过的名字。"
+song_body: "喜欢的歌，往往来得不经意。识别支持的电台音频，在歌曲历史中找回那些听过的名字。"
 song_steps:
   - title: 为好歌找到名字
     body: 在支持的电台播放时使用识曲，能否使用取决于音频流与设备。
-  - title: 跟着文字继续听
-    body: 有可用歌词时，可以跟随同步歌词。时间轴与逐字高亮取决于歌曲提供的歌词数据。
+  - title: 记住在哪里听到
+    body: 每首歌都会保留电台名称与信息，方便回到播放它的那个电台。
   - title: 以后，也找得到
     body: 歌曲历史保留收听中发现的歌名与艺人信息，方便回顾。保存的是歌曲信息，而非音频录音。
 song_art_label: 把一瞬间，留成一段记忆
 song_art_text: 原来，这就是刚才那首歌。
-song_note: "部分电台仅支持基础播放；歌词、识曲和音频响应可视化取决于音源。Apple Watch 不支持识曲。"
+song_note: "部分电台仅支持基础播放；识曲和音频响应可视化取决于音源。Apple Watch 不支持识曲。"
 everyday_eyebrow: 从早到晚，好声音相伴
 everyday_title: 给聆听，留一个位置。
 everyday_body: 一些贴心的小功能，陪你走过一天里的不同片刻。
@@ -117,8 +117,8 @@ feature_items:
     body: 按曲风、心情、地区或语言浏览，收藏喜欢的电台，也可以添加自己的电台地址。
     entitlement: 免费提供
   - icon: recognition
-    title: 识曲与歌词
-    body: 识别支持的电台音频，有可用歌词时跟着文字继续听。
+    title: 听歌识曲
+    body: 在收听时识别支持的电台音频。
     entitlement: 每日免费额度 · Pro 不限次数
   - icon: history
     title: 歌曲历史

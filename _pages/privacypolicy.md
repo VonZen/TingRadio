@@ -37,15 +37,17 @@ Directory searches send search terms and selected filters, such as genre, countr
 
 Playback connects to the selected station's stream server. Station validation and artwork loading also contact the relevant stream or image servers. These providers receive your network connection information and the requested address. A custom URL can contain information you include in it; use only addresses you are entitled to access and share.
 
+At startup, the app downloads Ting Radio's station blocklist from this website (vonzen.github.io), which lists stations removed after rights or other reports. The request contains no identifier beyond normal connection information, and the list is cached on your device.
+
 At startup, the app may request an approximate region from [ipwho.is](https://ipwhois.io/) using your network IP address. The response can include country, region, city and time zone. It helps choose discovery content and the network route for purchase services. This does not use GPS or request precise-location permission. The app caches the region result locally without writing the returned IP field to disk.
 
-## 3. Song recognition, lyrics and artwork
+## 3. Song recognition and artwork
 
-Song recognition uses Apple ShazamKit with audio from the station being played. It can start when you open or use recognition, and may run again to refresh the recognition panel or identify and synchronise lyrics while those features are active. A separate tap is not required for every match. It does not record through your microphone. [Apple describes ShazamKit](https://developer.apple.com/shazamkit/) as matching a one-way acoustic signature without sharing the audio with Apple.
+Song recognition uses Apple ShazamKit with audio from the station being played. It can start when you open or use recognition, and may run again to refresh the recognition panel while it is open. A separate tap is not required for every match. It does not record through your microphone. [Apple describes ShazamKit](https://developer.apple.com/shazamkit/) as matching a one-way acoustic signature without sharing the audio with Apple.
 
-Lyrics requests may send a song identifier, title, artist and storefront region to SpicyAMLL (api.spicyamll.online); a song identifier to the AMLL lyrics database hosted on GitHub (raw.githubusercontent.com); or the title and artist to [LRCLIB](https://lrclib.net/). Not every request uses every provider. Apple's iTunes Search or Lookup services may receive a title, artist or Apple Music identifier to find artwork and song information.
+The current app does not request online lyrics. Apple's iTunes Search or Lookup services may receive a title, artist or Apple Music identifier to find artwork and song information.
 
-These services and their hosting providers also receive ordinary network request information. Matching results and lyrics may be cached on your device. Ting Radio does not upload your complete local library or listening history as part of these requests.
+These services and their hosting providers also receive ordinary network request information. Matching results may be cached on your device. Ting Radio does not upload your complete local library or listening history as part of these requests.
 
 Artwork lookups can run automatically when a station supplies song information without a cover image. Requests therefore depend on the features in use and available metadata, rather than requiring a separate confirmation for each lookup.
 
@@ -65,7 +67,7 @@ The website uses an English default entry point and separate addresses for each 
 
 The website is hosted on GitHub Pages. GitHub may process visitor IP addresses and request logs for hosting and security under the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
-The in-app contact action opens an email draft containing the app version, build number, operating-system version, device model identifier and selected app language. You can review or edit the draft; opening it does not send a message to us. If you send it, we receive your email address, message and anything you choose to attach. We use these to respond and resolve your request. Please avoid sending unnecessary sensitive information, passwords or private stream-access tokens. Copyright and privacy requests are also handled as support correspondence.
+The in-app contact action opens an email draft containing the app version, build number, operating-system version, device model identifier and selected app language. You can review or edit the draft; opening it does not send a message to us. If you send it, we receive your email address, message and anything you choose to attach. We use these to respond and resolve your request. Please avoid sending unnecessary sensitive information, passwords or private stream-access tokens. Station reports opened from the app add the station name, directory identifier, stream and homepage addresses to the draft. Copyright and privacy requests are also handled as support correspondence.
 
 Apple may separately provide crash reports and app-use statistics according to your system analytics-sharing settings. These are Apple's reporting mechanisms, rather than an analytics SDK added by Ting Radio. You can manage this sharing in your device's Analytics & Improvements settings; see [Apple's App Analytics & Privacy explanation](https://www.apple.com/legal/privacy/data/en/app-analytics/). Local diagnostic events, such as alarm-operation logs, do not themselves send reports to a Ting Radio analytics server.
 
@@ -77,7 +79,7 @@ We retain support correspondence as needed to handle the request and meet applic
 
 Connections use the protocols supported by each provider. Some station streams and custom URLs use unencrypted HTTP. No network or storage system is guaranteed to be completely secure.
 
-You can stop playback and leave the relevant feature, or fully quit the app, to stop subsequent requests for those functions. Moving the app to the background does not stop playback. Closing only the recognition panel may not stop recognition if lyric synchronisation still needs it. Changing Apple's analytics-sharing setting does not stop radio, lyrics or purchase requests needed for the features you use. You can manage alarm permission in system settings and Apple purchases through your Apple account. Deleting the app does not cancel a subscription.
+You can stop playback and leave the relevant feature, or fully quit the app, to stop subsequent requests for those functions. Moving the app to the background does not stop playback. Changing Apple's analytics-sharing setting does not stop radio, song-information or purchase requests needed for the features you use. You can manage alarm permission in system settings and Apple purchases through your Apple account. Deleting the app does not cancel a subscription.
 
 ## 7. Privacy requests and disclosures
 

@@ -35,17 +35,17 @@ discovery_items:
   - {name: Détente, detail: Prenez le temps de rentrer., image: chill.webp, alt: De la brume au-dessus d’un lac paisible en forêt, kind: Humeur}
 song_eyebrow: NE LAISSEZ PAS FILER UNE BELLE CHANSON
 song_title: "Écoutée.\nRetrouvée."
-song_body: "Une chanson préférée peut surgir quand on s’y attend le moins. Identifiez l’audio des stations compatibles, suivez les paroles disponibles et retrouvez votre historique de chansons."
+song_body: "Une chanson préférée peut surgir quand on s’y attend le moins. Identifiez l’audio des stations compatibles et retrouvez-la dans votre historique."
 song_steps:
   - title: Mettez un nom sur la chanson
     body: Utilisez la reconnaissance de chansons pendant la lecture d’une station compatible. Sa disponibilité dépend du flux et de l’appareil.
-  - title: Suivez les paroles
-    body: Suivez les paroles synchronisées lorsqu’elles sont disponibles. La synchronisation et la mise en évidence des mots dépendent des données de paroles fournies pour la chanson.
+  - title: Sachez où elle est passée
+    body: Le nom et les informations de la station restent associés à chaque chanson, pour retrouver la station qui l’a diffusée.
   - title: Retrouvez-la plus tard
     body: L’historique conserve les titres et les artistes découverts pendant l’écoute. Il enregistre des informations sur les chansons, sans enregistrer leur audio.
 song_art_label: D’UN INSTANT À UN SOUVENIR
 song_art_text: Cette chanson dont vous aviez besoin sans le savoir.
-song_note: "Certaines stations permettent uniquement l’écoute de base. Les paroles, la reconnaissance et les visuels réagissant à l’audio dépendent du flux. La reconnaissance de chansons n’est pas disponible sur Apple Watch."
+song_note: "Certaines stations permettent uniquement l’écoute de base. La reconnaissance et les visuels réagissant à l’audio dépendent du flux. La reconnaissance de chansons n’est pas disponible sur Apple Watch."
 everyday_eyebrow: EN BONNE COMPAGNIE, TOUTE LA JOURNÉE
 everyday_title: Faites une place à l’écoute.
 everyday_body: Quelques attentions pensées pour le vrai rythme de vos journées.
@@ -117,8 +117,8 @@ feature_items:
     body: Explorez par genre, humeur, région ou langue, puis gardez vos favoris à portée de main. Ajoutez aussi vos propres URL de stations.
     entitlement: Inclus
   - icon: recognition
-    title: Reconnaissance et paroles
-    body: Identifiez l’audio des stations compatibles et suivez les paroles lorsqu’elles sont disponibles.
+    title: Reconnaissance de chansons
+    body: Identifiez l’audio des stations compatibles pendant l’écoute.
     entitlement: Quota quotidien gratuit · Sans limite avec Pro
   - icon: history
     title: Historique de chansons

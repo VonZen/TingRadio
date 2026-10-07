@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "updated": "2026-10-07",
+  "stations": [
+    {
+      "id": "168e0796-3b97-479c-949d-b1871ef07379",
+      "name": "Bandit Rock",
+      "reason": "Stream requires authentication (HTTP 401); not a public stream",
+      "added": "2026-10-07"
+    }
+  ],
+  "hosts": []
+}

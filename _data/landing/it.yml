@@ -35,17 +35,17 @@ discovery_items:
   - {name: Relax, detail: Scegli la strada più lunga verso casa., image: chill.webp, alt: Nebbia sopra un tranquillo lago nel bosco, kind: Stato d’animo}
 song_eyebrow: NON LASCIARTI SFUGGIRE UN BEL BRANO
 song_title: "Lo ascolti.\nLo ritrovi."
-song_body: "Un brano preferito può arrivare quando meno te lo aspetti. Riconosci l’audio delle radio supportate, segui i testi disponibili e ritrova i brani nella cronologia."
+song_body: "Un brano preferito può arrivare quando meno te lo aspetti. Riconosci l’audio delle radio supportate e ritrova i brani nella cronologia."
 song_steps:
   - title: Dai un nome al brano
     body: Usa il riconoscimento brani mentre ascolti una stazione supportata. La disponibilità dipende dal flusso e dal dispositivo.
-  - title: Segui le parole
-    body: Segui i testi sincronizzati quando sono disponibili. La sincronizzazione e le parole evidenziate dipendono dai testi forniti per il brano.
+  - title: Ricorda dove è passato
+    body: Il nome e i dettagli della stazione restano associati a ogni brano, così puoi tornare alla stazione che l’ha trasmesso.
   - title: Ritrovalo più tardi
     body: La cronologia dei brani conserva titoli e artisti scoperti durante l’ascolto. Salva le informazioni sui brani anziché registrazioni audio.
 song_art_label: DA UN MOMENTO A UN RICORDO
 song_art_text: Quel brano di cui non sapevi di aver bisogno.
-song_note: "Alcune stazioni supportano solo l’ascolto di base. Testi, riconoscimento e visualizzazioni che reagiscono all’audio dipendono dal flusso. Il riconoscimento brani non è supportato su Apple Watch."
+song_note: "Alcune stazioni supportano solo l’ascolto di base. Riconoscimento e visualizzazioni che reagiscono all’audio dipendono dal flusso. Il riconoscimento brani non è supportato su Apple Watch."
 everyday_eyebrow: BUONA COMPAGNIA, TUTTO IL GIORNO
 everyday_title: Fai spazio all’ascolto.
 everyday_body: Piccole attenzioni per il ritmo delle tue giornate.
@@ -117,8 +117,8 @@ feature_items:
     body: Esplora per genere, stato d’animo, regione o lingua, poi tieni i preferiti a portata di mano. Puoi anche aggiungere i tuoi URL di stazioni.
     entitlement: Incluso
   - icon: recognition
-    title: Riconoscimento e testi
-    body: Identifica l’audio delle radio supportate e segui i testi quando sono disponibili.
+    title: Riconoscimento brani
+    body: Identifica l’audio delle radio supportate mentre ascolti.
     entitlement: Quota giornaliera gratuita · Senza limiti con Pro
   - icon: history
     title: Cronologia dei brani

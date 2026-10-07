@@ -35,17 +35,17 @@ discovery_items:
   - {name: Ontspannen, detail: Neem de lange weg naar huis., image: chill.webp, alt: Mist boven een rustig meer in het bos, kind: Stemming}
 song_eyebrow: LAAT EEN MOOI NUMMER NIET ONTSNAPPEN
 song_title: "Gehoord.\nOnthouden."
-song_body: "Een favoriet nummer kan opduiken wanneer je het niet verwacht. Herken audio van ondersteunde radiostreams, volg beschikbare songteksten en kijk terug in je nummergeschiedenis."
+song_body: "Een favoriet nummer kan opduiken wanneer je het niet verwacht. Herken audio van ondersteunde radiostreams en kijk terug in je nummergeschiedenis."
 song_steps:
   - title: Geef het nummer een naam
     body: Gebruik nummerherkenning terwijl een ondersteund station speelt. De beschikbaarheid hangt af van de stream en het apparaat.
-  - title: Volg de woorden
-    body: Volg gesynchroniseerde songteksten wanneer die beschikbaar zijn. De timing en gemarkeerde woorden hangen af van de aangeleverde songtekst.
+  - title: Weet waar het speelde
+    body: De stationsnaam en details blijven bij elk nummer, zodat je terug kunt naar het station dat het draaide.
   - title: Vind het later terug
     body: De nummergeschiedenis bewaart titels en artiesten die je tijdens het luisteren ontdekt. Ze bewaart informatie over nummers in plaats van audio-opnamen.
 song_art_label: VAN EEN MOMENT NAAR EEN HERINNERING
 song_art_text: Dat nummer waarvan je niet wist dat je het nodig had.
-song_note: "Sommige stations ondersteunen alleen eenvoudig luisteren. Songteksten, herkenning en beelden die op de audio reageren zijn afhankelijk van de stream. Nummerherkenning wordt niet ondersteund op Apple Watch."
+song_note: "Sommige stations ondersteunen alleen eenvoudig luisteren. Herkenning en beelden die op de audio reageren zijn afhankelijk van de stream. Nummerherkenning wordt niet ondersteund op Apple Watch."
 everyday_eyebrow: GOED GEZELSCHAP, DE HELE DAG
 everyday_title: Maak ruimte om te luisteren.
 everyday_body: Een paar doordachte details die passen bij jouw dag.
@@ -117,8 +117,8 @@ feature_items:
     body: Blader op genre, stemming, regio of taal en houd je favorieten dichtbij. Voeg ook je eigen station-URL’s toe.
     entitlement: Inbegrepen
   - icon: recognition
-    title: Nummerherkenning en songteksten
-    body: Herken audio van ondersteunde radiostreams en volg de songteksten wanneer die beschikbaar zijn.
+    title: Nummerherkenning
+    body: Herken audio van ondersteunde radiostreams terwijl je luistert.
     entitlement: Gratis met dagelijkse limiet · Onbeperkt met Pro
   - icon: history
     title: Nummergeschiedenis

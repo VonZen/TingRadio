@@ -17,9 +17,9 @@ These terms describe your use of Ting Radio, developed and maintained by Vonzen,
 
 ## 1. The service
 
-Ting Radio helps you discover and listen to internet radio, organise stations and access supported song information and listening features. A Ting Radio account is not required. Some Apple services, including purchases, may require an Apple account.
+Ting Radio helps you discover and listen to internet radio, organise stations and access supported song information and listening features. The current app does not provide online lyrics. A Ting Radio account is not required. Some Apple services, including purchases, may require an Apple account.
 
-Radio playback needs an internet connection and may use mobile data. You are responsible for your connectivity and any charges from your network provider. Stations, songs, lyrics and other external resources may be unavailable in some regions or change without notice from Ting Radio.
+Radio playback needs an internet connection and may use mobile data. You are responsible for your connectivity and any charges from your network provider. Stations, songs and other external resources may be unavailable in some regions or change without notice from Ting Radio.
 
 You must have the legal capacity to accept these terms, or use the service with a parent or guardian’s consent and supervision as required by applicable law. Parents and guardians should assess whether the selected stations are suitable for the child.
 
@@ -39,24 +39,24 @@ Radio Browser describes its collected station-directory data as public domain an
 
 Station names, logos, trademarks, programmes, streams, music, artwork and lyrics belong to their respective rights holders. A directory listing or display in the app does not imply ownership, endorsement, a partnership or verification of all rights by Ting Radio. Access to a directory or a playable stream is not itself permission to reproduce, redistribute or commercially exploit the content. Pro purchases provide app features and do not grant such rights to third-party content.
 
-Stations control their content, availability and broadcast advertising. Pro does not remove advertisements embedded in a station's audio. Song recognition and lyric matches can be incomplete or incorrect. The app does not provide offline audio recordings or programme replay; song history stores song information.
+Stations control their content, availability and broadcast advertising. Pro does not remove advertisements embedded in a station's audio. Song recognition can be incomplete or incorrect. The app does not provide offline audio recordings or programme replay; song history stores song information.
 
 External providers set their own terms and may change stream addresses, formats, schedules, geographic restrictions or service availability. Links to music apps or station websites do not provide a subscription to those services. You are responsible for any separate account or payment they require.
 
 ## 4. Copyright and other rights concerns
 
-Rights holders and their authorised representatives can send a complaint to [VonzenApp@outlook.com](mailto:VonzenApp@outlook.com). Please include:
+Rights holders and their authorised representatives can send a complaint to [VonzenApp@outlook.com](mailto:VonzenApp@outlook.com). In the app, **Report Station** in the player's More menu, or in a station's context menu, opens an email that already identifies the station, its directory identifier and stream address. Please include:
 
 - Your name, contact details and authority to act for the rights holder.
 - The work or other rights concerned, and the station name, stream URL or specific material in Ting Radio that identifies the issue.
 - An explanation of the alleged infringement, supporting information and the action requested.
 - Confirmation that you believe in good faith that the disputed use is unauthorised and that the information supplied is accurate.
 
-We will assess the report, request clarification where needed and take appropriate action within our control, which may include correcting or removing a listing or restricting access. If you believe an action was mistaken, use the same address to provide supporting information for review. We cannot delete material from an independent provider's servers; changes to the source directory or broadcast may also require that provider's involvement. Correspondence is handled as described in our Privacy Policy. This process does not limit any legal remedy available to you.
+We will assess the report, request clarification where needed and take appropriate action within our control. Ting Radio maintains a published station blocklist that the app downloads and applies to directory results, favourites, history and playback. Adding a station or stream host to that list removes it from Ting Radio for all users without waiting for an app update. If you believe an action was mistaken, use the same address to provide supporting information for review. We cannot delete material from an independent provider's servers; changes to the source directory or broadcast may also require that provider's involvement. Correspondence is handled as described in our Privacy Policy. This process does not limit any legal remedy available to you.
 
 ## 5. Free features and Pro
 
-Ting Radio includes free listening features and optional Pro features. Current availability and purchase conditions are shown in the app and Apple's confirmation sheet. Features and allowances may depend on your device, operating system, stream format and external data source. Pro does not guarantee that every station supports recognition, lyrics or visualisation.
+Ting Radio includes free listening features and optional Pro features. Current availability and purchase conditions are shown in the app and Apple's confirmation sheet. Features and allowances may depend on your device, operating system, stream format and external data source. Pro does not guarantee that every station supports recognition or visualisation.
 
 Apple processes purchases. Restore Purchases in the app can check eligible previous purchases using the relevant Apple account. Purchase validity and Pro access may require a network connection.
 

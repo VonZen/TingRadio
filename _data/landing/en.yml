@@ -35,17 +35,17 @@ discovery_items:
   - {name: Unwind, detail: Take the long way home., image: chill.webp, alt: Mist above a quiet forest lake, kind: Mood}
 song_eyebrow: DON’T LET A GOOD SONG GO
 song_title: "Heard it.\nKeep it."
-song_body: "A favourite song can arrive when you least expect it. Identify supported radio audio, follow available lyrics, and revisit your song history."
+song_body: "A favourite song can arrive when you least expect it. Identify supported radio audio and revisit your song history."
 song_steps:
   - title: Put a name to the song
     body: Use song recognition while a supported station plays. Availability depends on the stream and device.
-  - title: Stay with the words
-    body: Follow synchronised lyrics when available. Timing and word highlights depend on the lyrics supplied for the song.
+  - title: Know where it played
+    body: The station name and details stay with each song, so you can return to the station that played it.
   - title: Find it again later
     body: Song history keeps the titles and artists discovered during listening. It saves song information, rather than audio recordings.
 song_art_label: FROM A MOMENT TO A MEMORY
 song_art_text: That song you didn’t know you needed.
-song_note: "Some stations support basic listening only. Lyrics, recognition, and audio-reactive visuals depend on the stream. Song recognition is not supported on Apple Watch."
+song_note: "Some stations support basic listening only. Recognition and audio-reactive visuals depend on the stream. Song recognition is not supported on Apple Watch."
 everyday_eyebrow: GOOD COMPANY, ALL DAY
 everyday_title: Make room for listening.
 everyday_body: A few thoughtful touches for the way your day actually moves.
@@ -117,8 +117,8 @@ feature_items:
     body: Browse by genre, mood, region, or language, then keep your favourites close. Add your own station URLs, too.
     entitlement: Included
   - icon: recognition
-    title: Song recognition & lyrics
-    body: Identify supported radio audio and follow the lyrics when available.
+    title: Song recognition
+    body: Identify supported radio audio while you listen.
     entitlement: Daily allowance · Unlimited with Pro
   - icon: history
     title: Song history

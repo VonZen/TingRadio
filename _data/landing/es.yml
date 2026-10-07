@@ -35,17 +35,17 @@ discovery_items:
   - {name: Relajarse, detail: Vuelve a casa sin prisas., image: chill.webp, alt: Niebla sobre un tranquilo lago en el bosque, kind: Estado de ánimo}
 song_eyebrow: NO DEJES ESCAPAR UNA BUENA CANCIÓN
 song_title: "La escuchas.\nLa guardas."
-song_body: "Una canción favorita puede llegar cuando menos te lo esperas. Identifica el audio de las emisoras compatibles, sigue las letras disponibles y vuelve a tu historial de canciones."
+song_body: "Una canción favorita puede llegar cuando menos te lo esperas. Identifica el audio de las emisoras compatibles y vuelve a tu historial de canciones."
 song_steps:
   - title: Ponle nombre a la canción
     body: Usa el reconocimiento de canciones mientras suena una emisora compatible. La disponibilidad depende de la transmisión y del dispositivo.
-  - title: Sigue cada palabra
-    body: Sigue las letras sincronizadas cuando estén disponibles. La sincronización y las palabras resaltadas dependen de la letra facilitada para cada canción.
+  - title: Recuerda dónde sonó
+    body: El nombre y los datos de la emisora se guardan con cada canción para que puedas volver a la emisora que la puso.
   - title: Encuéntrala más tarde
     body: El historial de canciones conserva los títulos y artistas descubiertos mientras escuchas. Guarda información sobre las canciones, no grabaciones de audio.
 song_art_label: DE UN INSTANTE A UN RECUERDO
 song_art_text: Esa canción que no sabías que necesitabas.
-song_note: "Algunas emisoras solo permiten la escucha básica. Las letras, el reconocimiento y los efectos visuales que reaccionan al audio dependen de la transmisión. El reconocimiento de canciones no está disponible en el Apple Watch."
+song_note: "Algunas emisoras solo permiten la escucha básica. El reconocimiento y los efectos visuales que reaccionan al audio dependen de la transmisión. El reconocimiento de canciones no está disponible en el Apple Watch."
 everyday_eyebrow: BUENA COMPAÑÍA, TODO EL DÍA
 everyday_title: Haz sitio para escuchar.
 everyday_body: Pequeños detalles pensados para el ritmo real de tu día.
@@ -117,8 +117,8 @@ feature_items:
     body: Explora por género, estado de ánimo, región o idioma y ten tus favoritos a mano. También puedes añadir tus propias URL de emisoras.
     entitlement: Incluido
   - icon: recognition
-    title: Reconocimiento y letras
-    body: Identifica el audio de las emisoras compatibles y sigue las letras cuando estén disponibles.
+    title: Reconocimiento de canciones
+    body: Identifica el audio de las emisoras compatibles mientras escuchas.
     entitlement: Cuota diaria gratuita · Sin límite con Pro
   - icon: history
     title: Historial de canciones

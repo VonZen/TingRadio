@@ -35,17 +35,17 @@ discovery_items:
   - {name: Relaks, detail: Wybierz dłuższą drogę do domu., image: chill.webp, alt: Mgła nad spokojnym leśnym jeziorem, kind: Nastrój}
 song_eyebrow: NIE POZWÓL DOBREJ PIOSENCE UMKNĄĆ
 song_title: "Usłysz.\nZapamiętaj."
-song_body: "Ulubiona piosenka może pojawić się niespodziewanie. Rozpoznawaj utwory z obsługiwanych stacji, śledź dostępne teksty i wracaj do historii utworów."
+song_body: "Ulubiona piosenka może pojawić się niespodziewanie. Rozpoznawaj utwory z obsługiwanych stacji i wracaj do historii utworów."
 song_steps:
   - title: Poznaj tytuł piosenki
     body: Użyj rozpoznawania utworów podczas odtwarzania obsługiwanej stacji. Dostępność zależy od strumienia i urządzenia.
-  - title: Podążaj za słowami
-    body: Śledź zsynchronizowane teksty, jeśli są dostępne. Synchronizacja i wyróżnianie słów zależą od danych tekstu danego utworu.
+  - title: Pamiętaj, gdzie grała
+    body: Nazwa i informacje o stacji zostają przy każdym utworze, aby można było wrócić do stacji, która go zagrała.
   - title: Znajdź ją ponownie
     body: Historia utworów zachowuje tytuły i wykonawców odkrytych podczas słuchania. Zapisuje informacje o utworach, a nie nagrania dźwięku.
 song_art_label: OD CHWILI DO WSPOMNIENIA
 song_art_text: Piosenka, której potrzebujesz, choć jeszcze o tym nie wiesz.
-song_note: "Niektóre stacje obsługują tylko podstawowe słuchanie. Teksty, rozpoznawanie i wizualizacje reagujące na dźwięk zależą od strumienia. Rozpoznawanie utworów nie jest obsługiwane na Apple Watch."
+song_note: "Niektóre stacje obsługują tylko podstawowe słuchanie. Rozpoznawanie i wizualizacje reagujące na dźwięk zależą od strumienia. Rozpoznawanie utworów nie jest obsługiwane na Apple Watch."
 everyday_eyebrow: DOBRE TOWARZYSTWO PRZEZ CAŁY DZIEŃ
 everyday_title: Znajdź miejsce na słuchanie.
 everyday_body: Kilka przemyślanych szczegółów dopasowanych do rytmu Twojego dnia.
@@ -117,8 +117,8 @@ feature_items:
     body: Przeglądaj według gatunku, nastroju, regionu lub języka i zachowaj ulubione stacje. Możesz też dodać własne adresy.
     entitlement: Bezpłatnie
   - icon: recognition
-    title: Rozpoznawanie i teksty
-    body: Rozpoznawaj utwory z obsługiwanych stacji i śledź teksty, jeśli są dostępne.
+    title: Rozpoznawanie utworów
+    body: Rozpoznawaj utwory z obsługiwanych stacji podczas słuchania.
     entitlement: Bezpłatny limit dzienny · Bez limitu z Pro
   - icon: history
     title: Historia utworów

@@ -35,17 +35,17 @@ discovery_items:
   - {name: Descontrair, detail: Volta a casa sem pressa., image: chill.webp, alt: Névoa sobre um lago tranquilo na floresta, kind: Estado de espírito}
 song_eyebrow: NÃO DEIXES ESCAPAR UMA BOA MÚSICA
 song_title: "Ouviste.\nGuardaste."
-song_body: "Uma música favorita pode aparecer quando menos esperas. Identifica o áudio de estações compatíveis, acompanha as letras disponíveis e revisita o teu histórico de músicas."
+song_body: "Uma música favorita pode aparecer quando menos esperas. Identifica o áudio de estações compatíveis e revisita o teu histórico de músicas."
 song_steps:
   - title: Dá um nome à música
     body: Usa o reconhecimento de músicas enquanto uma estação compatível está a tocar. A disponibilidade depende da transmissão e do dispositivo.
-  - title: Acompanha as palavras
-    body: Segue as letras sincronizadas quando disponíveis. A sincronização e o destaque das palavras dependem das letras fornecidas para a música.
+  - title: Sabe onde tocou
+    body: O nome e os detalhes da estação ficam com cada música, para poderes voltar à estação que a tocou.
   - title: Encontra-a mais tarde
     body: O histórico de músicas guarda os títulos e os artistas descobertos durante a escuta. Guarda informações sobre as músicas, em vez de gravações de áudio.
 song_art_label: DE UM INSTANTE A UMA MEMÓRIA
 song_art_text: Aquela música de que precisavas sem saber.
-song_note: "Algumas estações apenas permitem a escuta básica. As letras, o reconhecimento e os efeitos visuais que reagem ao áudio dependem da transmissão. O reconhecimento de músicas não está disponível no Apple Watch."
+song_note: "Algumas estações apenas permitem a escuta básica. O reconhecimento e os efeitos visuais que reagem ao áudio dependem da transmissão. O reconhecimento de músicas não está disponível no Apple Watch."
 everyday_eyebrow: BOA COMPANHIA, TODO O DIA
 everyday_title: Abre espaço para ouvir.
 everyday_body: Pequenos pormenores pensados para o verdadeiro ritmo do teu dia.
@@ -117,8 +117,8 @@ feature_items:
     body: Explora por género, estado de espírito, região ou idioma e mantém os favoritos por perto. Também podes adicionar os teus próprios URL de estações.
     entitlement: Incluído
   - icon: recognition
-    title: Reconhecimento e letras
-    body: Identifica o áudio de estações compatíveis e acompanha as letras quando disponíveis.
+    title: Reconhecimento de músicas
+    body: Identifica o áudio de estações compatíveis enquanto ouves.
     entitlement: Quota diária gratuita · Sem limite com Pro
   - icon: history
     title: Histórico de músicas

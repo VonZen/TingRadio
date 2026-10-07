@@ -35,17 +35,17 @@ discovery_items:
   - {name: 放鬆, detail: 把片刻還給自己。, image: chill.webp, alt: 薄霧籠罩的寧靜森林湖泊, kind: 心情}
 song_eyebrow: 別讓好歌擦身而過
 song_title: "偶然聽見，\n也能好好記住。"
-song_body: "喜歡的歌，往往來得不經意。辨識支援的電台音訊，跟隨可用歌詞，在歌曲歷史中找回那些聽過的名字。"
+song_body: "喜歡的歌，往往來得不經意。辨識支援的電台音訊，在歌曲歷史中找回那些聽過的名字。"
 song_steps:
   - title: 為好歌找到名字
     body: 在支援的電台播放時使用歌曲辨識，能否使用取決於串流與裝置。
-  - title: 跟著文字繼續聽
-    body: 有可用歌詞時，可以跟隨同步歌詞。時間軸與逐字醒目提示取決於歌曲提供的歌詞資料。
+  - title: 記住在哪裡聽到
+    body: 每首歌都會保留電台名稱與資訊，方便回到播放它的那個電台。
   - title: 以後，也找得到
     body: 歌曲歷史保留收聽時發現的歌名與藝人資訊，方便回顧。儲存的是歌曲資訊，而非音訊錄音。
 song_art_label: 把一瞬間，留成一段記憶
 song_art_text: 原來，這就是剛才那首歌。
-song_note: "部分電台僅支援基本播放；歌詞、歌曲辨識和隨音訊變化的視覺效果取決於串流。Apple Watch 不支援歌曲辨識。"
+song_note: "部分電台僅支援基本播放；歌曲辨識和隨音訊變化的視覺效果取決於串流。Apple Watch 不支援歌曲辨識。"
 everyday_eyebrow: 從早到晚，好聲音相伴
 everyday_title: 給聆聽，留一個位置。
 everyday_body: 一些貼心的小功能，陪你走過一天裡的不同片刻。
@@ -117,8 +117,8 @@ feature_items:
     body: 按曲風、心情、地區或語言瀏覽，收藏喜歡的電台，也可以新增自己的電台網址。
     entitlement: 免費提供
   - icon: recognition
-    title: 歌曲辨識與歌詞
-    body: 辨識支援的電台音訊，有可用歌詞時跟著文字繼續聽。
+    title: 歌曲辨識
+    body: 在收聽時辨識支援的電台音訊。
     entitlement: 每日免費額度 · Pro 不限次數
   - icon: history
     title: 歌曲歷史
