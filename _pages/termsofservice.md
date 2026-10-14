@@ -11,9 +11,9 @@ translation_key: terms
 
 # Terms of service
 
-Last updated: 7 October 2026
+Last updated: 12 October 2026
 
-These terms describe your use of Ting Radio, developed and maintained by Vonzen, and its website. Questions and support requests can be sent to [VonzenApp@outlook.com](mailto:VonzenApp@outlook.com). By using the service, you agree to these terms. If you do not agree, please stop using it.
+These terms describe your use of Ting Radio, developed and maintained by Vonzen, and its website. Questions and support requests can be sent to [vonzenappstudio@gmail.com](mailto:vonzenappstudio@gmail.com). By using the service, you agree to these terms. If you do not agree, please stop using it.
 
 ## 1. The service
 
@@ -39,13 +39,13 @@ Radio Browser describes its collected station-directory data as public domain an
 
 Station names, logos, trademarks, programmes, streams, music, artwork and other content belong to their respective rights holders. A directory listing or display in the app does not imply ownership, endorsement, a partnership or verification of all rights by Ting Radio. Access to a directory or a playable stream is not itself permission to reproduce, redistribute or commercially exploit the content. Pro purchases provide app features and do not grant such rights to third-party content.
 
-Stations control their content, availability and broadcast advertising. Pro does not remove advertisements embedded in a station's audio. Song recognition can be incomplete or incorrect. The app does not provide offline audio recordings or programme replay; song history stores song information.
+Stations control their content, availability and broadcast advertising. On iPhone and iPad, free users may also see in-app advertisements provided by Google AdMob; Pro removes these in-app advertisements but does not remove advertisements embedded in a station's audio. Optional rewarded advertisements provide the benefit shown before you watch them. See our Privacy Policy for how advertising, tracking permission and consent work. Song recognition can be incomplete or incorrect. The app does not provide offline audio recordings or programme replay; song history stores song information.
 
 External providers set their own terms and may change stream addresses, formats, schedules, geographic restrictions or service availability. Links to music apps or station websites do not provide a subscription to those services. You are responsible for any separate account or payment they require.
 
 ## 4. Copyright and other rights concerns
 
-Rights holders and their authorised representatives can send a complaint to [VonzenApp@outlook.com](mailto:VonzenApp@outlook.com). In the app, **Report Station** in the player's More menu, or in a station's context menu, opens an email that already identifies the station, its directory identifier and stream address. Please include:
+Rights holders and their authorised representatives can send a complaint to [vonzenappstudio@gmail.com](mailto:vonzenappstudio@gmail.com). In the app, **Report Station** in the player's More menu, or in a station's context menu, opens an email that already identifies the station, its directory identifier and stream address. Please include:
 
 - Your name, contact details and authority to act for the rights holder.
 - The work or other rights concerned, and the station name, stream URL or specific material in Ting Radio that identifies the issue.
@@ -86,4 +86,4 @@ Cancel any recurring subscription separately through Apple. Stopping use or dele
 
 We aim to keep Ting Radio useful and available, but cannot guarantee uninterrupted connections, the accuracy of external content or compatibility with every stream and device. To the extent allowed by applicable law and the app licence, the service is provided as available. Nothing in these terms excludes liability that cannot lawfully be excluded, including applicable statutory warranties and consumer remedies.
 
-If a problem arises, contact [VonzenApp@outlook.com](mailto:VonzenApp@outlook.com) with the device, system version and a description of the issue. For disputes, applicable law determines your rights and available remedies; these terms do not require you to give up mandatory protections in your place of residence.
+If a problem arises, contact [vonzenappstudio@gmail.com](mailto:vonzenappstudio@gmail.com) with the device, system version and a description of the issue. For disputes, applicable law determines your rights and available remedies; these terms do not require you to give up mandatory protections in your place of residence.

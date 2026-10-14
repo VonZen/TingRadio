@@ -4,7 +4,7 @@ url: https://vonzen.github.io
 baseurl: /TingRadio
 appstore_link: https://apps.apple.com/app/id6451428572
 ios_app_id: 6451428572
-email_address: VonzenApp@outlook.com
+email_address: vonzenappstudio@gmail.com
 markdown: kramdown
 plugins:
   - jekyll-sitemap
